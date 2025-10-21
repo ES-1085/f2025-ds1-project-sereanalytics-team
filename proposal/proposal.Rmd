@@ -14,12 +14,12 @@ library(skimr)
 ## 1. Introduction
 
 Our data comes from the UN Human Development Report. More specifically, it is from the 2025 Global Survey on AI and Human Development. The data set contains 21 countries that are separated in 4 categories: “High Human Development Group”, “Low Human Development Group”, “Medium Human Development Groups”, and “Very High Human Development Group”. The data collected for these 21 countries is split up into 6 categories:
-Demographic section: contains questions like age, gender, education, and occupation
-AI Interaction section: contains questions like AI interaction frequency, AI use purposes, Internet access, and familiarity with AI
-Culture and AI Perception section: contains a question about culture and AI perception
-Agency section: contains questions like current freedom of choice, future freedom of choice, and AI expose and control confidence
-Social Trust section: contains questions like trust in people, trust in AI systems, and confidence in AI systems
-Future Expectations section: contains questions like future AI use, and AI impact
+- Demographic section: contains questions like age, gender, education, and occupation
+- AI Interaction section: contains questions like AI interaction frequency, AI use purposes, Internet access, and familiarity with AI
+- Culture and AI Perception section: contains a question about culture and AI perception
+- Agency section: contains questions like current freedom of choice, future freedom of choice, and AI expose and control confidence
+- Social Trust section: contains questions like trust in people, trust in AI systems, and confidence in AI systems
+- Future Expectations section: contains questions like future AI use, and AI impact
 
 
 Our research question is focused on understanding how the use of AI differs across different demographic groups and if that is related to the status of the countries that these demographic groups are in. The variables/categories we will use are Demographics, AI interactions, Culture and AI Perception, Social Trust section, Future Expectations, and Human Development.
@@ -38,18 +38,18 @@ glimpse(project_data)
 ## 3. Data analysis plan
 
 The variables we will be visualizing to explore the research questions include:
-Country
-Age group
-Gender group
-Education group
-Occupation group
-Disability group
-AI Interaction Frequency
-Familiarity with AI
-Culture and AI Perception
-Trust in People
-Trust in AI Systems
-AI impact
+- Country
+- Age group
+- Gender group
+- Education group
+- Occupation group
+- Disability group
+- AI Interaction Frequency
+- Familiarity with AI
+- Culture and AI Perception
+- Trust in People
+- Trust in AI Systems
+- AI impact
 
 We will not be needing data from other sources but we will most likely want to add a variable that separates the countries by their groups (as mentioned above)
 
@@ -57,11 +57,11 @@ SUMMARY STATISTICS (CODE)
 
 
 Types of graphs that we want to use: 
-Bar graph with “facet_wrap” based on countries or their human development dynamics.
-Scatter plot of trust in people vs trust in AI systems
-Violin Plot of AI interaction frequency and age group?
-Geom density of familiarity with AI and occupation group
-Scatter plot of AI interaction frequency and trust in AI systems
+- Bar graph with “facet_wrap” based on countries or their human development dynamics.
+- Scatter plot of trust in people vs trust in AI systems
+- Violin Plot of AI interaction frequency and age group?
+- Geom density of familiarity with AI and occupation group
+- Scatter plot of AI interaction frequency and trust in AI systems
 
 ```{r}
 # Code goes here
