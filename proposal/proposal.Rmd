@@ -28,7 +28,7 @@ Our research question is focused on understanding how the use of AI differs acro
 ## 2. Data
 
 ```{r glimpse-data}
-project_data <- read_csv("prism-AIHDS25_Survey-data-values.csv")
+project_data <- read_csv("Data.csv")
 glimpse(project_data)
 ```
 

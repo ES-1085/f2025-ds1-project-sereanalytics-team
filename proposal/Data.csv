@@ -1,0 +1,1177 @@
+﻿Country ISO,Country,Section,Question,Description,Value,Unit
+AUS,Australia,Age Group,Q1. Age 15-17,Respondents aged 15-17,0,%
+AUS,Australia,Age Group,Q1. Age 18-35,Respondents aged 18-35,31.15,%
+AUS,Australia,Age Group,Q1. Age 36-59,Respondents aged 36-59,39.45,%
+AUS,Australia,Age Group,Q1. Age 60+,Respondents aged 60+,29.4,%
+BGD,Bangladesh,Age Group,Q1. Age 15-17,Respondents aged 15-17,8.49,%
+BGD,Bangladesh,Age Group,Q1. Age 18-35,Respondents aged 18-35,43.16,%
+BGD,Bangladesh,Age Group,Q1. Age 36-59,Respondents aged 36-59,35.36,%
+BGD,Bangladesh,Age Group,Q1. Age 60+,Respondents aged 60+,12.99,%
+BRA,Brazil,Age Group,Q1. Age 15-17,Respondents aged 15-17,5.25,%
+BRA,Brazil,Age Group,Q1. Age 18-35,Respondents aged 18-35,34.36,%
+BRA,Brazil,Age Group,Q1. Age 36-59,Respondents aged 36-59,41.09,%
+BRA,Brazil,Age Group,Q1. Age 60+,Respondents aged 60+,19.31,%
+CHN,China,Age Group,Q1. Age 15-17,Respondents aged 15-17,4.2,%
+CHN,China,Age Group,Q1. Age 18-35,Respondents aged 18-35,28.3,%
+CHN,China,Age Group,Q1. Age 36-59,Respondents aged 36-59,44.1,%
+CHN,China,Age Group,Q1. Age 60+,Respondents aged 60+,23.4,%
+COM,Comoros,Age Group,Q1. Age 15-17,Respondents aged 15-17,9.88,%
+COM,Comoros,Age Group,Q1. Age 18-35,Respondents aged 18-35,45.31,%
+COM,Comoros,Age Group,Q1. Age 36-59,Respondents aged 36-59,34.03,%
+COM,Comoros,Age Group,Q1. Age 60+,Respondents aged 60+,10.78,%
+DEU,Germany,Age Group,Q1. Age 15-17,Respondents aged 15-17,3.09,%
+DEU,Germany,Age Group,Q1. Age 18-35,Respondents aged 18-35,23.87,%
+DEU,Germany,Age Group,Q1. Age 36-59,Respondents aged 36-59,37.96,%
+DEU,Germany,Age Group,Q1. Age 60+,Respondents aged 60+,35.07,%
+EGY,Egypt,Age Group,Q1. Age 15-17,Respondents aged 15-17,5.95,%
+EGY,Egypt,Age Group,Q1. Age 18-35,Respondents aged 18-35,43.79,%
+EGY,Egypt,Age Group,Q1. Age 36-59,Respondents aged 36-59,38.84,%
+EGY,Egypt,Age Group,Q1. Age 60+,Respondents aged 60+,11.43,%
+FJI,Fiji,Age Group,Q1. Age 15-17,Respondents aged 15-17,7.4,%
+FJI,Fiji,Age Group,Q1. Age 18-35,Respondents aged 18-35,39.5,%
+FJI,Fiji,Age Group,Q1. Age 36-59,Respondents aged 36-59,38.9,%
+FJI,Fiji,Age Group,Q1. Age 60+,Respondents aged 60+,14.2,%
+GRC,Greece,Age Group,Q1. Age 15-17,Respondents aged 15-17,3.54,%
+GRC,Greece,Age Group,Q1. Age 18-35,Respondents aged 18-35,21.26,%
+GRC,Greece,Age Group,Q1. Age 36-59,Respondents aged 36-59,40.16,%
+GRC,Greece,Age Group,Q1. Age 60+,Respondents aged 60+,35.04,%
+IDN,Indonesia,Age Group,Q1. Age 15-17,Respondents aged 15-17,6.6,%
+IDN,Indonesia,Age Group,Q1. Age 18-35,Respondents aged 18-35,37,%
+IDN,Indonesia,Age Group,Q1. Age 36-59,Respondents aged 36-59,41.5,%
+IDN,Indonesia,Age Group,Q1. Age 60+,Respondents aged 60+,14.9,%
+IND,India,Age Group,Q1. Age 15-17,Respondents aged 15-17,7.1,%
+IND,India,Age Group,Q1. Age 18-35,Respondents aged 18-35,41.3,%
+IND,India,Age Group,Q1. Age 36-59,Respondents aged 36-59,37.6,%
+IND,India,Age Group,Q1. Age 60+,Respondents aged 60+,14,%
+JPN,Japan,Age Group,Q1. Age 15-17,Respondents aged 15-17,3.1,%
+JPN,Japan,Age Group,Q1. Age 18-35,Respondents aged 18-35,19.9,%
+JPN,Japan,Age Group,Q1. Age 36-59,Respondents aged 36-59,36.6,%
+JPN,Japan,Age Group,Q1. Age 60+,Respondents aged 60+,40.4,%
+KGZ,Kyrgyzstan,Age Group,Q1. Age 15-17,Respondents aged 15-17,7.68,%
+KGZ,Kyrgyzstan,Age Group,Q1. Age 18-35,Respondents aged 18-35,41.12,%
+KGZ,Kyrgyzstan,Age Group,Q1. Age 36-59,Respondents aged 36-59,37.62,%
+KGZ,Kyrgyzstan,Age Group,Q1. Age 60+,Respondents aged 60+,13.57,%
+KOR,Republic of Korea,Age Group,Q1. Age 15-17,Respondents aged 15-17,2.9,%
+KOR,Republic of Korea,Age Group,Q1. Age 18-35,Respondents aged 18-35,25.4,%
+KOR,Republic of Korea,Age Group,Q1. Age 36-59,Respondents aged 36-59,41.9,%
+KOR,Republic of Korea,Age Group,Q1. Age 60+,Respondents aged 60+,29.8,%
+NGA,Nigeria,Age Group,Q1. Age 15-17,Respondents aged 15-17,11.81,%
+NGA,Nigeria,Age Group,Q1. Age 18-35,Respondents aged 18-35,48.75,%
+NGA,Nigeria,Age Group,Q1. Age 36-59,Respondents aged 36-59,31.23,%
+NGA,Nigeria,Age Group,Q1. Age 60+,Respondents aged 60+,8.21,%
+PAK,Pakistan,Age Group,Q1. Age 15-17,Respondents aged 15-17,10.35,%
+PAK,Pakistan,Age Group,Q1. Age 18-35,Respondents aged 18-35,47.06,%
+PAK,Pakistan,Age Group,Q1. Age 36-59,Respondents aged 36-59,32.04,%
+PAK,Pakistan,Age Group,Q1. Age 60+,Respondents aged 60+,10.55,%
+RUS,Russian Federation,Age Group,Q1. Age 15-17,Respondents aged 15-17,0,%
+RUS,Russian Federation,Age Group,Q1. Age 18-35,Respondents aged 18-35,26,%
+RUS,Russian Federation,Age Group,Q1. Age 36-59,Respondents aged 36-59,43.5,%
+RUS,Russian Federation,Age Group,Q1. Age 60+,Respondents aged 60+,30.5,%
+TUN,Tunisia,Age Group,Q1. Age 15-17,Respondents aged 15-17,5.99,%
+TUN,Tunisia,Age Group,Q1. Age 18-35,Respondents aged 18-35,31.78,%
+TUN,Tunisia,Age Group,Q1. Age 36-59,Respondents aged 36-59,43.62,%
+TUN,Tunisia,Age Group,Q1. Age 60+,Respondents aged 60+,18.61,%
+TUR,Türkiye,Age Group,Q1. Age 15-17,Respondents aged 15-17,5.5,%
+TUR,Türkiye,Age Group,Q1. Age 18-35,Respondents aged 18-35,35.3,%
+TUR,Türkiye,Age Group,Q1. Age 36-59,Respondents aged 36-59,40.7,%
+TUR,Türkiye,Age Group,Q1. Age 60+,Respondents aged 60+,18.5,%
+USA,United States of America,Age Group,Q1. Age 15-17,Respondents aged 15-17,5.1,%
+USA,United States of America,Age Group,Q1. Age 18-35,Respondents aged 18-35,29.68,%
+USA,United States of America,Age Group,Q1. Age 36-59,Respondents aged 36-59,36.73,%
+USA,United States of America,Age Group,Q1. Age 60+,Respondents aged 60+,28.5,%
+ZAF,South Africa,Age Group,Q1. Age 15-17,Respondents aged 15-17,6.8,%
+ZAF,South Africa,Age Group,Q1. Age 18-35,Respondents aged 18-35,42.45,%
+ZAF,South Africa,Age Group,Q1. Age 36-59,Respondents aged 36-59,37.34,%
+ZAF,South Africa,Age Group,Q1. Age 60+,Respondents aged 60+,13.4,%
+AUS,Australia,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,3.86,%
+AUS,Australia,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,17.75,%
+AUS,Australia,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,48.77,%
+AUS,Australia,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,29.62,%
+BGD,Bangladesh,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,8.81,%
+BGD,Bangladesh,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,7.07,%
+BGD,Bangladesh,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,56.98,%
+BGD,Bangladesh,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,27.13,%
+BRA,Brazil,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,10.51,%
+BRA,Brazil,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,23.74,%
+BRA,Brazil,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,40.71,%
+BRA,Brazil,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,25.04,%
+CHN,China,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,14.99,%
+CHN,China,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,14.19,%
+CHN,China,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,59.21,%
+CHN,China,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,11.61,%
+COM,Comoros,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,6.26,%
+COM,Comoros,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,30.28,%
+COM,Comoros,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,43.35,%
+COM,Comoros,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,20.11,%
+DEU,Germany,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,0.98,%
+DEU,Germany,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,20.87,%
+DEU,Germany,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,46.31,%
+DEU,Germany,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,31.84,%
+EGY,Egypt,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,16.79,%
+EGY,Egypt,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,25.25,%
+EGY,Egypt,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,31.59,%
+EGY,Egypt,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,26.36,%
+FJI,Fiji,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,9.13,%
+FJI,Fiji,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,18.64,%
+FJI,Fiji,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,53.52,%
+FJI,Fiji,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,18.71,%
+GRC,Greece,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,3.38,%
+GRC,Greece,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,27.76,%
+GRC,Greece,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,52.92,%
+GRC,Greece,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,15.94,%
+IDN,Indonesia,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,1.78,%
+IDN,Indonesia,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,9.89,%
+IDN,Indonesia,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,52.57,%
+IDN,Indonesia,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,35.76,%
+IND,India,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,9.96,%
+IND,India,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,20.89,%
+IND,India,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,49.17,%
+IND,India,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,19.98,%
+JPN,Japan,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,3.08,%
+JPN,Japan,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,32.27,%
+JPN,Japan,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,44.83,%
+JPN,Japan,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,19.82,%
+KGZ,Kyrgyzstan,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,15.07,%
+KGZ,Kyrgyzstan,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,8.89,%
+KGZ,Kyrgyzstan,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,31.59,%
+KGZ,Kyrgyzstan,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,44.46,%
+KOR,Republic of Korea,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,5.4,%
+KOR,Republic of Korea,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,29,%
+AUS,Australia,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,15.33,%
+BGD,Bangladesh,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,3.5,%
+BRA,Brazil,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,6.34,%
+CHN,China,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,5.45,%
+COM,Comoros,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,5.5,%
+DEU,Germany,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,4.19,%
+EGY,Egypt,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,9.86,%
+FJI,Fiji,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,13.78,%
+GRC,Greece,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,4.95,%
+IDN,Indonesia,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,8.46,%
+IND,India,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,8.62,%
+JPN,Japan,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,6.01,%
+KGZ,Kyrgyzstan,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,5.5,%
+KOR,Republic of Korea,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,6.65,%
+NGA,Nigeria,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,12.82,%
+PAK,Pakistan,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,6.68,%
+RUS,Russian Federation,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,15.12,%
+TUN,Tunisia,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,14.31,%
+TUR,Türkiye,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,6.84,%
+USA,United States of America,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,10.1,%
+ZAF,South Africa,Familiarity with AI,Q8. AI Familiarity: A Lot,AI Familiarity: A Lot,20.09,%
+AUS,Australia,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,30.63,%
+BGD,Bangladesh,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,23.81,%
+BRA,Brazil,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,29.59,%
+CHN,China,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,26.5,%
+COM,Comoros,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,21.16,%
+DEU,Germany,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,47.57,%
+EGY,Egypt,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,21.8,%
+FJI,Fiji,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,29.58,%
+GRC,Greece,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,23.82,%
+IDN,Indonesia,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,33.38,%
+IND,India,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,23.27,%
+JPN,Japan,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,32.14,%
+KGZ,Kyrgyzstan,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,47.33,%
+KOR,Republic of Korea,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,38.43,%
+NGA,Nigeria,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,15.61,%
+PAK,Pakistan,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,24.31,%
+RUS,Russian Federation,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,33.25,%
+TUN,Tunisia,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,46.94,%
+TUR,Türkiye,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,38.83,%
+USA,United States of America,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,43.29,%
+ZAF,South Africa,Familiarity with AI,Q8. AI Familiarity: Some,AI Familiarity: Some,27.99,%
+AUS,Australia,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,38.6,%
+BGD,Bangladesh,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,24.9,%
+BRA,Brazil,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,42.57,%
+CHN,China,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,51.98,%
+COM,Comoros,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,34.73,%
+DEU,Germany,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,44.19,%
+EGY,Egypt,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,39.1,%
+FJI,Fiji,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,39.18,%
+GRC,Greece,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,48.32,%
+IDN,Indonesia,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,49.78,%
+IND,India,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,36.49,%
+JPN,Japan,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,44.54,%
+KGZ,Kyrgyzstan,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,11.12,%
+KOR,Republic of Korea,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,44.37,%
+NGA,Nigeria,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,39.62,%
+PAK,Pakistan,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,43.96,%
+RUS,Russian Federation,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,31.25,%
+TUN,Tunisia,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,16.89,%
+TUR,Türkiye,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,34.45,%
+USA,United States of America,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,40.82,%
+ZAF,South Africa,Familiarity with AI,Q8. AI Familiarity: A Little,AI Familiarity: A Little,37.8,%
+AUS,Australia,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,14.76,%
+BGD,Bangladesh,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,24.45,%
+BRA,Brazil,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,19.52,%
+CHN,China,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,11.78,%
+COM,Comoros,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,36.59,%
+DEU,Germany,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,2.91,%
+EGY,Egypt,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,16.08,%
+FJI,Fiji,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,11.25,%
+GRC,Greece,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,21.21,%
+IDN,Indonesia,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,3.02,%
+IND,India,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,23.87,%
+JPN,Japan,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,16.86,%
+KGZ,Kyrgyzstan,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,35.26,%
+KOR,Republic of Korea,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,5.48,%
+NGA,Nigeria,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,21.85,%
+PAK,Pakistan,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,23.26,%
+RUS,Russian Federation,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,12.76,%
+TUN,Tunisia,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,15.1,%
+TUR,Türkiye,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,19.21,%
+USA,United States of America,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,5.17,%
+ZAF,South Africa,Familiarity with AI,Q8. AI Familiarity: Nothing,AI Familiarity: Nothing,13.15,%
+AUS,Australia,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,0.68,%
+BGD,Bangladesh,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,23.34,%
+BRA,Brazil,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,1.99,%
+CHN,China,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,4.29,%
+COM,Comoros,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,2.02,%
+DEU,Germany,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,1.15,%
+EGY,Egypt,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,13.16,%
+FJI,Fiji,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,6.21,%
+GRC,Greece,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,1.7,%
+IDN,Indonesia,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,5.37,%
+IND,India,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,7.75,%
+JPN,Japan,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,0.45,%
+KGZ,Kyrgyzstan,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,0.79,%
+KOR,Republic of Korea,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,5.07,%
+NGA,Nigeria,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,10.1,%
+PAK,Pakistan,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,1.79,%
+RUS,Russian Federation,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,7.62,%
+TUN,Tunisia,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,6.76,%
+TUR,Türkiye,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,0.67,%
+USA,United States of America,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,0.62,%
+ZAF,South Africa,Familiarity with AI,Q8. AI Familiarity: Don't Know,AI Familiarity: Don't Know,0.97,%
+NGA,Nigeria,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,14.92,%
+PAK,Pakistan,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,2.92,%
+RUS,Russian Federation,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,5.67,%
+TUN,Tunisia,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,26.56,%
+TUR,Türkiye,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,4.45,%
+USA,United States of America,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,3.8,%
+ZAF,South Africa,Culture and AI Perception,Q13. AI Perception: Always,AI Perception: Always,12.84,%
+NGA,Nigeria,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,26.28,%
+PAK,Pakistan,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,10.97,%
+RUS,Russian Federation,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,18.71,%
+TUN,Tunisia,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,24.07,%
+TUR,Türkiye,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,11,%
+USA,United States of America,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,21.15,%
+ZAF,South Africa,Culture and AI Perception,Q13. AI Perception: Most of the time,AI Perception: Most of the time,20.91,%
+KOR,Republic of Korea,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,50.08,%
+NGA,Nigeria,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,43.56,%
+PAK,Pakistan,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,38.6,%
+RUS,Russian Federation,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,33.92,%
+TUN,Tunisia,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,40.58,%
+TUR,Türkiye,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,39.33,%
+USA,United States of America,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,50.69,%
+ZAF,South Africa,Culture and AI Perception,Q13. AI Perception: Sometimes,AI Perception: Sometimes,45.52,%
+KOR,Republic of Korea,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,15.51,%
+NGA,Nigeria,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,15.23,%
+PAK,Pakistan,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,47.5,%
+RUS,Russian Federation,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,41.7,%
+TUN,Tunisia,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,8.78,%
+TUR,Türkiye,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,45.22,%
+USA,United States of America,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,24.36,%
+ZAF,South Africa,Culture and AI Perception,Q13. AI Perception: Never,AI Perception: Never,20.72,%
+AUS,Australia,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,27.26,%
+BGD,Bangladesh,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,11.82,%
+BRA,Brazil,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,9.84,%
+CHN,China,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,3.96,%
+COM,Comoros,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,8.28,%
+DEU,Germany,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,22.76,%
+EGY,Egypt,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,15.44,%
+FJI,Fiji,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,12.62,%
+GRC,Greece,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,12.02,%
+IDN,Indonesia,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,4.09,%
+AUS,Australia,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,13.61,%
+BGD,Bangladesh,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,11.41,%
+BRA,Brazil,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,12.72,%
+CHN,China,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,7.58,%
+COM,Comoros,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,22.23,%
+DEU,Germany,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,14.78,%
+EGY,Egypt,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,16.33,%
+FJI,Fiji,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,9.82,%
+GRC,Greece,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,14.78,%
+IDN,Indonesia,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,6.92,%
+AUS,Australia,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,20.07,%
+BGD,Bangladesh,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,19.11,%
+BRA,Brazil,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,15.89,%
+CHN,China,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,22.71,%
+COM,Comoros,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,7.21,%
+DEU,Germany,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,19.29,%
+EGY,Egypt,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,17.63,%
+FJI,Fiji,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,18.24,%
+GRC,Greece,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,31.46,%
+IDN,Indonesia,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,41.74,%
+AUS,Australia,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,20.6,%
+BGD,Bangladesh,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,41.7,%
+BRA,Brazil,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,33.76,%
+CHN,China,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,32.37,%
+COM,Comoros,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,36.59,%
+DEU,Germany,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,30.22,%
+EGY,Egypt,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,36.65,%
+FJI,Fiji,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,27.99,%
+GRC,Greece,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,33.06,%
+IDN,Indonesia,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,34.73,%
+AUS,Australia,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,18.46,%
+BGD,Bangladesh,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,15.97,%
+BRA,Brazil,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,27.79,%
+CHN,China,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,33.39,%
+COM,Comoros,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,25.69,%
+DEU,Germany,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,12.94,%
+EGY,Egypt,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,13.96,%
+FJI,Fiji,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,31.33,%
+GRC,Greece,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,8.67,%
+IDN,Indonesia,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,12.52,%
+AUS,Australia,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,14.08,%
+BGD,Bangladesh,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,12.57,%
+BRA,Brazil,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,28.54,%
+CHN,China,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,24.56,%
+COM,Comoros,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,20.36,%
+DEU,Germany,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,10.72,%
+EGY,Egypt,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,12.74,%
+FJI,Fiji,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,26.67,%
+GRC,Greece,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,10.25,%
+IDN,Indonesia,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,15.59,%
+AUS,Australia,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,19.17,%
+BGD,Bangladesh,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,42.59,%
+BRA,Brazil,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,35.08,%
+CHN,China,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,25.89,%
+COM,Comoros,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,36.89,%
+DEU,Germany,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,20.54,%
+EGY,Egypt,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,42.75,%
+FJI,Fiji,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,30.4,%
+GRC,Greece,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,37.73,%
+AUS,Australia,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,21.07,%
+BGD,Bangladesh,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,18.39,%
+BRA,Brazil,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,16.57,%
+CHN,China,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,30.98,%
+COM,Comoros,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,6.03,%
+DEU,Germany,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,21.64,%
+EGY,Egypt,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,12.33,%
+FJI,Fiji,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,18.66,%
+GRC,Greece,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,27.87,%
+AUS,Australia,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,17.14,%
+BGD,Bangladesh,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,14.08,%
+BRA,Brazil,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,11.9,%
+CHN,China,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,11.42,%
+COM,Comoros,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,27.58,%
+DEU,Germany,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,18.04,%
+EGY,Egypt,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,20.14,%
+FJI,Fiji,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,13.05,%
+GRC,Greece,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,11.9,%
+AUS,Australia,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,28.54,%
+BGD,Bangladesh,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,12.37,%
+BRA,Brazil,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,7.92,%
+CHN,China,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,7.14,%
+COM,Comoros,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,9.15,%
+DEU,Germany,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,29.06,%
+EGY,Egypt,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,12.03,%
+FJI,Fiji,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,11.22,%
+GRC,Greece,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,12.24,%
+AUS,Australia,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,15.59,%
+BGD,Bangladesh,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,8.81,%
+BRA,Brazil,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,17.93,%
+CHN,China,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,23.96,%
+COM,Comoros,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,19.2,%
+DEU,Germany,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,8.05,%
+EGY,Egypt,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,6.36,%
+FJI,Fiji,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,25.58,%
+GRC,Greece,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,9.45,%
+AUS,Australia,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,14.68,%
+BGD,Bangladesh,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,36.22,%
+BRA,Brazil,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,23.37,%
+CHN,China,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,26.35,%
+COM,Comoros,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,37.06,%
+DEU,Germany,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,17.6,%
+EGY,Egypt,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,30.17,%
+FJI,Fiji,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,21.79,%
+GRC,Greece,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,26.64,%
+AUS,Australia,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,15.18,%
+BGD,Bangladesh,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,24.73,%
+BRA,Brazil,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,18.87,%
+CHN,China,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,31.08,%
+COM,Comoros,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,7.32,%
+DEU,Germany,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,20.83,%
+EGY,Egypt,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,15.22,%
+FJI,Fiji,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,20.73,%
+GRC,Greece,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,28.74,%
+AUS,Australia,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,17.97,%
+BGD,Bangladesh,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,15.57,%
+BRA,Brazil,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,24.18,%
+CHN,China,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,11.78,%
+COM,Comoros,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,25.71,%
+DEU,Germany,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,22.18,%
+EGY,Egypt,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,25.38,%
+FJI,Fiji,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,16.1,%
+GRC,Greece,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,19.78,%
+AUS,Australia,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,36.58,%
+BGD,Bangladesh,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,14.68,%
+BRA,Brazil,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,15.66,%
+CHN,China,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,6.83,%
+COM,Comoros,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,10.71,%
+DEU,Germany,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,31.34,%
+EGY,Egypt,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,22.87,%
+FJI,Fiji,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,15.81,%
+GRC,Greece,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,15.38,%
+AUS,Australia,Mean Age,Q1. Mean Age,Mean age of survey respondents,48.6645393371582,years
+BGD,Bangladesh,Mean Age,Q1. Mean Age,Mean age of survey respondents,35.4538955688477,years
+BRA,Brazil,Mean Age,Q1. Mean Age,Mean age of survey respondents,42.8580894470215,years
+CHN,China,Mean Age,Q1. Mean Age,Mean age of survey respondents,43.6826782226562,years
+COM,Comoros,Mean Age,Q1. Mean Age,Mean age of survey respondents,36.2722015380859,years
+DEU,Germany,Mean Age,Q1. Mean Age,Mean age of survey respondents,48.8474044799805,years
+EGY,Egypt,Mean Age,Q1. Mean Age,Mean age of survey respondents,37.352424621582,years
+FJI,Fiji,Mean Age,Q1. Mean Age,Mean age of survey respondents,39.9846649169922,years
+GRC,Greece,Mean Age,Q1. Mean Age,Mean age of survey respondents,47.8183174133301,years
+IDN,Indonesia,Mean Age,Q1. Mean Age,Mean age of survey respondents,39.6504936218262,years
+IND,India,Mean Age,Q1. Mean Age,Mean age of survey respondents,37.3665313720703,years
+JPN,Japan,Mean Age,Q1. Mean Age,Mean age of survey respondents,49.6509819030762,years
+KGZ,Kyrgyzstan,Mean Age,Q1. Mean Age,Mean age of survey respondents,38.3842735290527,years
+KOR,Republic of Korea,Mean Age,Q1. Mean Age,Mean age of survey respondents,45.8126945495605,years
+NGA,Nigeria,Mean Age,Q1. Mean Age,Mean age of survey respondents,32.7339477539062,years
+PAK,Pakistan,Mean Age,Q1. Mean Age,Mean age of survey respondents,35.7775001525879,years
+RUS,Russian Federation,Mean Age,Q1. Mean Age,Mean age of survey respondents,47.4576568603516,years
+TUN,Tunisia,Mean Age,Q1. Mean Age,Mean age of survey respondents,41.0113906860352,years
+TUR,Türkiye,Mean Age,Q1. Mean Age,Mean age of survey respondents,40.2699775695801,years
+USA,United States of America,Mean Age,Q1. Mean Age,Mean age of survey respondents,46.0061225891113,years
+ZAF,South Africa,Mean Age,Q1. Mean Age,Mean age of survey respondents,36.6871948242187,years
+AUS,Australia,Gender Group,Q2. Female,Female respondents,49.77,%
+BGD,Bangladesh,Gender Group,Q2. Female,Female respondents,48.25,%
+BRA,Brazil,Gender Group,Q2. Female,Female respondents,50.99,%
+CHN,China,Gender Group,Q2. Female,Female respondents,49.5,%
+COM,Comoros,Gender Group,Q2. Female,Female respondents,50,%
+DEU,Germany,Gender Group,Q2. Female,Female respondents,50.9,%
+EGY,Egypt,Gender Group,Q2. Female,Female respondents,50.18,%
+FJI,Fiji,Gender Group,Q2. Female,Female respondents,50.8,%
+GRC,Greece,Gender Group,Q2. Female,Female respondents,51.97,%
+IDN,Indonesia,Gender Group,Q2. Female,Female respondents,50.2,%
+IND,India,Gender Group,Q2. Female,Female respondents,48.6,%
+JPN,Japan,Gender Group,Q2. Female,Female respondents,51.5,%
+KGZ,Kyrgyzstan,Gender Group,Q2. Female,Female respondents,51.6,%
+KOR,Republic of Korea,Gender Group,Q2. Female,Female respondents,50.3,%
+NGA,Nigeria,Gender Group,Q2. Female,Female respondents,49.65,%
+PAK,Pakistan,Gender Group,Q2. Female,Female respondents,49.15,%
+RUS,Russian Federation,Gender Group,Q2. Female,Female respondents,53.7,%
+TUN,Tunisia,Gender Group,Q2. Female,Female respondents,51.02,%
+TUR,Türkiye,Gender Group,Q2. Female,Female respondents,50.4,%
+USA,United States of America,Gender Group,Q2. Female,Female respondents,49.55,%
+ZAF,South Africa,Gender Group,Q2. Female,Female respondents,52.11,%
+AUS,Australia,Gender Group,Q2. Male,Male respondents,48.35,%
+BGD,Bangladesh,Gender Group,Q2. Male,Male respondents,51.75,%
+BRA,Brazil,Gender Group,Q2. Male,Male respondents,48.71,%
+CHN,China,Gender Group,Q2. Male,Male respondents,50.5,%
+COM,Comoros,Gender Group,Q2. Male,Male respondents,50,%
+DEU,Germany,Gender Group,Q2. Male,Male respondents,48.84,%
+EGY,Egypt,Gender Group,Q2. Male,Male respondents,49.82,%
+FJI,Fiji,Gender Group,Q2. Male,Male respondents,49.2,%
+GRC,Greece,Gender Group,Q2. Male,Male respondents,48.03,%
+IDN,Indonesia,Gender Group,Q2. Male,Male respondents,49.8,%
+IND,India,Gender Group,Q2. Male,Male respondents,51.4,%
+JPN,Japan,Gender Group,Q2. Male,Male respondents,48.5,%
+KGZ,Kyrgyzstan,Gender Group,Q2. Male,Male respondents,48.4,%
+KOR,Republic of Korea,Gender Group,Q2. Male,Male respondents,49.7,%
+NGA,Nigeria,Gender Group,Q2. Male,Male respondents,50.35,%
+PAK,Pakistan,Gender Group,Q2. Male,Male respondents,50.75,%
+RUS,Russian Federation,Gender Group,Q2. Male,Male respondents,46.3,%
+TUN,Tunisia,Gender Group,Q2. Male,Male respondents,48.98,%
+TUR,Türkiye,Gender Group,Q2. Male,Male respondents,49.6,%
+USA,United States of America,Gender Group,Q2. Male,Male respondents,49.15,%
+ZAF,South Africa,Gender Group,Q2. Male,Male respondents,47.69,%
+AUS,Australia,Gender Group,Q2. Other,Other respondents,1.88,%
+BGD,Bangladesh,Gender Group,Q2. Other,Other respondents,0,%
+BRA,Brazil,Gender Group,Q2. Other,Other respondents,0.3,%
+CHN,China,Gender Group,Q2. Other,Other respondents,0,%
+COM,Comoros,Gender Group,Q2. Other,Other respondents,0,%
+DEU,Germany,Gender Group,Q2. Other,Other respondents,0.26,%
+EGY,Egypt,Gender Group,Q2. Other,Other respondents,0,%
+FJI,Fiji,Gender Group,Q2. Other,Other respondents,0,%
+GRC,Greece,Gender Group,Q2. Other,Other respondents,0,%
+IDN,Indonesia,Gender Group,Q2. Other,Other respondents,0,%
+IND,India,Gender Group,Q2. Other,Other respondents,0,%
+JPN,Japan,Gender Group,Q2. Other,Other respondents,0,%
+KGZ,Kyrgyzstan,Gender Group,Q2. Other,Other respondents,0,%
+KOR,Republic of Korea,Gender Group,Q2. Other,Other respondents,0,%
+NGA,Nigeria,Gender Group,Q2. Other,Other respondents,0,%
+PAK,Pakistan,Gender Group,Q2. Other,Other respondents,0.1,%
+RUS,Russian Federation,Gender Group,Q2. Other,Other respondents,0,%
+TUN,Tunisia,Gender Group,Q2. Other,Other respondents,0,%
+TUR,Türkiye,Gender Group,Q2. Other,Other respondents,0,%
+USA,United States of America,Gender Group,Q2. Other,Other respondents,1.29,%
+ZAF,South Africa,Gender Group,Q2. Other,Other respondents,0.19,%
+AUS,Australia,Education Group,Q3. Primary or Less,Completed primary or less,7.19,%
+BGD,Bangladesh,Education Group,Q3. Primary or Less,Completed primary or less,46.6,%
+BRA,Brazil,Education Group,Q3. Primary or Less,Completed primary or less,41.87,%
+CHN,China,Education Group,Q3. Primary or Less,Completed primary or less,21,%
+COM,Comoros,Education Group,Q3. Primary or Less,Completed primary or less,51,%
+DEU,Germany,Education Group,Q3. Primary or Less,Completed primary or less,10.51,%
+EGY,Egypt,Education Group,Q3. Primary or Less,Completed primary or less,51.83,%
+FJI,Fiji,Education Group,Q3. Primary or Less,Completed primary or less,36.2,%
+GRC,Greece,Education Group,Q3. Primary or Less,Completed primary or less,10.2,%
+IDN,Indonesia,Education Group,Q3. Primary or Less,Completed primary or less,36.3,%
+IND,India,Education Group,Q3. Primary or Less,Completed primary or less,30.8,%
+JPN,Japan,Education Group,Q3. Primary or Less,Completed primary or less,0.8,%
+KGZ,Kyrgyzstan,Education Group,Q3. Primary or Less,Completed primary or less,10,%
+KOR,Republic of Korea,Education Group,Q3. Primary or Less,Completed primary or less,20,%
+NGA,Nigeria,Education Group,Q3. Primary or Less,Completed primary or less,42.5,%
+PAK,Pakistan,Education Group,Q3. Primary or Less,Completed primary or less,61.24,%
+RUS,Russian Federation,Education Group,Q3. Primary or Less,Completed primary or less,4.9,%
+TUN,Tunisia,Education Group,Q3. Primary or Less,Completed primary or less,15,%
+TUR,Türkiye,Education Group,Q3. Primary or Less,Completed primary or less,33.8,%
+USA,United States of America,Education Group,Q3. Primary or Less,Completed primary or less,4.84,%
+ZAF,South Africa,Education Group,Q3. Primary or Less,Completed primary or less,12.48,%
+AUS,Australia,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,22.63,%
+BGD,Bangladesh,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,25.3,%
+BRA,Brazil,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,4.98,%
+CHN,China,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,42,%
+COM,Comoros,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,15,%
+DEU,Germany,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,10.51,%
+EGY,Egypt,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,20.85,%
+FJI,Fiji,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,37.7,%
+GRC,Greece,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,12.2,%
+IDN,Indonesia,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,21.7,%
+IND,India,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,24.9,%
+JPN,Japan,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,11.2,%
+KGZ,Kyrgyzstan,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,10,%
+KOR,Republic of Korea,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,10,%
+NGA,Nigeria,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,16,%
+PAK,Pakistan,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,19.58,%
+RUS,Russian Federation,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,4.9,%
+TUN,Tunisia,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,17,%
+TUR,Türkiye,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,24.1,%
+USA,United States of America,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,4.84,%
+ZAF,South Africa,Education Group,Q3. Some Secondary,Some secondary but not completed secondary,36.63,%
+AUS,Australia,Education Group,Q3. Completed Secondary,Completed secondary,42.73,%
+BGD,Bangladesh,Education Group,Q3. Completed Secondary,Completed secondary,21.1,%
+BRA,Brazil,Education Group,Q3. Completed Secondary,Completed secondary,34,%
+CHN,China,Education Group,Q3. Completed Secondary,Completed secondary,18,%
+COM,Comoros,Education Group,Q3. Completed Secondary,Completed secondary,28,%
+DEU,Germany,Education Group,Q3. Completed Secondary,Completed secondary,52.85,%
+EGY,Egypt,Education Group,Q3. Completed Secondary,Completed secondary,16.29,%
+FJI,Fiji,Education Group,Q3. Completed Secondary,Completed secondary,15.9,%
+GRC,Greece,Education Group,Q3. Completed Secondary,Completed secondary,43.9,%
+IDN,Indonesia,Education Group,Q3. Completed Secondary,Completed secondary,31.2,%
+IND,India,Education Group,Q3. Completed Secondary,Completed secondary,28.8,%
+JPN,Japan,Education Group,Q3. Completed Secondary,Completed secondary,51.4,%
+KGZ,Kyrgyzstan,Education Group,Q3. Completed Secondary,Completed secondary,58,%
+KOR,Republic of Korea,Education Group,Q3. Completed Secondary,Completed secondary,30,%
+NGA,Nigeria,Education Group,Q3. Completed Secondary,Completed secondary,27.5,%
+PAK,Pakistan,Education Group,Q3. Completed Secondary,Completed secondary,9.19,%
+RUS,Russian Federation,Education Group,Q3. Completed Secondary,Completed secondary,62.5,%
+TUN,Tunisia,Education Group,Q3. Completed Secondary,Completed secondary,37,%
+TUR,Türkiye,Education Group,Q3. Completed Secondary,Completed secondary,23.4,%
+USA,United States of America,Education Group,Q3. Completed Secondary,Completed secondary,55.68,%
+ZAF,South Africa,Education Group,Q3. Completed Secondary,Completed secondary,32.94,%
+AUS,Australia,Education Group,Q3. University or More,Completed university or more,27.45,%
+BGD,Bangladesh,Education Group,Q3. University or More,Completed university or more,7,%
+BRA,Brazil,Education Group,Q3. University or More,Completed university or more,19.14,%
+CHN,China,Education Group,Q3. University or More,Completed university or more,19,%
+COM,Comoros,Education Group,Q3. University or More,Completed university or more,6,%
+DEU,Germany,Education Group,Q3. University or More,Completed university or more,26.13,%
+EGY,Egypt,Education Group,Q3. University or More,Completed university or more,11.04,%
+FJI,Fiji,Education Group,Q3. University or More,Completed university or more,10.2,%
+GRC,Greece,Education Group,Q3. University or More,Completed university or more,33.7,%
+IDN,Indonesia,Education Group,Q3. University or More,Completed university or more,10.8,%
+IND,India,Education Group,Q3. University or More,Completed university or more,15.5,%
+JPN,Japan,Education Group,Q3. University or More,Completed university or more,36.6,%
+KGZ,Kyrgyzstan,Education Group,Q3. University or More,Completed university or more,22,%
+KOR,Republic of Korea,Education Group,Q3. University or More,Completed university or more,40,%
+NGA,Nigeria,Education Group,Q3. University or More,Completed university or more,14,%
+PAK,Pakistan,Education Group,Q3. University or More,Completed university or more,9.99,%
+RUS,Russian Federation,Education Group,Q3. University or More,Completed university or more,27.7,%
+TUN,Tunisia,Education Group,Q3. University or More,Completed university or more,31,%
+TUR,Türkiye,Education Group,Q3. University or More,Completed university or more,18.7,%
+USA,United States of America,Education Group,Q3. University or More,Completed university or more,34.65,%
+ZAF,South Africa,Education Group,Q3. University or More,Completed university or more,17.96,%
+AUS,Australia,Occupation Group,Q4. Employed (Full-Time),Full-time employee,33.87,%
+BGD,Bangladesh,Occupation Group,Q4. Employed (Full-Time),Full-time employee,21.84,%
+BRA,Brazil,Occupation Group,Q4. Employed (Full-Time),Full-time employee,28.85,%
+CHN,China,Occupation Group,Q4. Employed (Full-Time),Full-time employee,49.73,%
+COM,Comoros,Occupation Group,Q4. Employed (Full-Time),Full-time employee,10.23,%
+DEU,Germany,Occupation Group,Q4. Employed (Full-Time),Full-time employee,38.34,%
+EGY,Egypt,Occupation Group,Q4. Employed (Full-Time),Full-time employee,7.35,%
+FJI,Fiji,Occupation Group,Q4. Employed (Full-Time),Full-time employee,26.72,%
+GRC,Greece,Occupation Group,Q4. Employed (Full-Time),Full-time employee,46.61,%
+AUS,Australia,Occupation Group,Q4. Employed (Part-Time),Part-time employee,17.01,%
+BGD,Bangladesh,Occupation Group,Q4. Employed (Part-Time),Part-time employee,6.3,%
+BRA,Brazil,Occupation Group,Q4. Employed (Part-Time),Part-time employee,4.64,%
+CHN,China,Occupation Group,Q4. Employed (Part-Time),Part-time employee,5.95,%
+COM,Comoros,Occupation Group,Q4. Employed (Part-Time),Part-time employee,16.13,%
+DEU,Germany,Occupation Group,Q4. Employed (Part-Time),Part-time employee,10.59,%
+EGY,Egypt,Occupation Group,Q4. Employed (Part-Time),Part-time employee,5.28,%
+FJI,Fiji,Occupation Group,Q4. Employed (Part-Time),Part-time employee,9.18,%
+GRC,Greece,Occupation Group,Q4. Employed (Part-Time),Part-time employee,5.46,%
+AUS,Australia,Occupation Group,Q4. Self-employed,Self-employed,25.52,%
+BGD,Bangladesh,Occupation Group,Q4. Self-employed,Self-employed,1.84,%
+BRA,Brazil,Occupation Group,Q4. Self-employed,Self-employed,12.84,%
+CHN,China,Occupation Group,Q4. Self-employed,Self-employed,19.81,%
+COM,Comoros,Occupation Group,Q4. Self-employed,Self-employed,1.66,%
+DEU,Germany,Occupation Group,Q4. Self-employed,Self-employed,25.54,%
+EGY,Egypt,Occupation Group,Q4. Self-employed,Self-employed,4.92,%
+FJI,Fiji,Occupation Group,Q4. Self-employed,Self-employed,5.94,%
+GRC,Greece,Occupation Group,Q4. Self-employed,Self-employed,15.97,%
+AUS,Australia,Occupation Group,Q4. Unemployed,Unemployed,8.71,%
+BGD,Bangladesh,Occupation Group,Q4. Unemployed,Unemployed,9.02,%
+BRA,Brazil,Occupation Group,Q4. Unemployed,Unemployed,24.65,%
+CHN,China,Occupation Group,Q4. Unemployed,Unemployed,1.81,%
+COM,Comoros,Occupation Group,Q4. Unemployed,Unemployed,26.01,%
+DEU,Germany,Occupation Group,Q4. Unemployed,Unemployed,5.55,%
+EGY,Egypt,Occupation Group,Q4. Unemployed,Unemployed,25.66,%
+FJI,Fiji,Occupation Group,Q4. Unemployed,Unemployed,10.42,%
+GRC,Greece,Occupation Group,Q4. Unemployed,Unemployed,12.71,%
+AUS,Australia,Occupation Group,Q4. Retired,Retired,3.69,%
+BGD,Bangladesh,Occupation Group,Q4. Retired,Retired,14.15,%
+BRA,Brazil,Occupation Group,Q4. Retired,Retired,8.43,%
+CHN,China,Occupation Group,Q4. Retired,Retired,5.17,%
+COM,Comoros,Occupation Group,Q4. Retired,Retired,11.4,%
+DEU,Germany,Occupation Group,Q4. Retired,Retired,11.37,%
+EGY,Egypt,Occupation Group,Q4. Retired,Retired,9.05,%
+FJI,Fiji,Occupation Group,Q4. Retired,Retired,10.49,%
+GRC,Greece,Occupation Group,Q4. Retired,Retired,5.12,%
+AUS,Australia,Occupation Group,Q4. Student,Student,9.45,%
+BGD,Bangladesh,Occupation Group,Q4. Student,Student,15.26,%
+BRA,Brazil,Occupation Group,Q4. Student,Student,9.37,%
+CHN,China,Occupation Group,Q4. Student,Student,6.28,%
+COM,Comoros,Occupation Group,Q4. Student,Student,17.25,%
+DEU,Germany,Occupation Group,Q4. Student,Student,3.28,%
+EGY,Egypt,Occupation Group,Q4. Student,Student,9.94,%
+FJI,Fiji,Occupation Group,Q4. Student,Student,26.36,%
+GRC,Greece,Occupation Group,Q4. Student,Student,6.88,%
+AUS,Australia,Occupation Group,Q4. Unpaid Worker,Unpaid worker,1.75,%
+BGD,Bangladesh,Occupation Group,Q4. Unpaid Worker,Unpaid worker,31.61,%
+BRA,Brazil,Occupation Group,Q4. Unpaid Worker,Unpaid worker,11.21,%
+CHN,China,Occupation Group,Q4. Unpaid Worker,Unpaid worker,11.25,%
+COM,Comoros,Occupation Group,Q4. Unpaid Worker,Unpaid worker,17.33,%
+DEU,Germany,Occupation Group,Q4. Unpaid Worker,Unpaid worker,5.34,%
+EGY,Egypt,Occupation Group,Q4. Unpaid Worker,Unpaid worker,37.8,%
+FJI,Fiji,Occupation Group,Q4. Unpaid Worker,Unpaid worker,10.87,%
+GRC,Greece,Occupation Group,Q4. Unpaid Worker,Unpaid worker,7.25,%
+AUS,Australia,Disability Types,Q6. Severely limited,Severely limited,8.71,%
+BGD,Bangladesh,Disability Types,Q6. Severely limited,Severely limited,15.25,%
+BRA,Brazil,Disability Types,Q6. Severely limited,Severely limited,9.9,%
+CHN,China,Disability Types,Q6. Severely limited,Severely limited,3.6,%
+COM,Comoros,Disability Types,Q6. Severely limited,Severely limited,9.69,%
+DEU,Germany,Disability Types,Q6. Severely limited,Severely limited,10.53,%
+EGY,Egypt,Disability Types,Q6. Severely limited,Severely limited,19.51,%
+FJI,Fiji,Disability Types,Q6. Severely limited,Severely limited,11.64,%
+GRC,Greece,Disability Types,Q6. Severely limited,Severely limited,4.03,%
+IDN,Indonesia,Disability Types,Q6. Severely limited,Severely limited,5.71,%
+IND,India,Disability Types,Q6. Severely limited,Severely limited,23.29,%
+JPN,Japan,Disability Types,Q6. Severely limited,Severely limited,2.95,%
+KGZ,Kyrgyzstan,Disability Types,Q6. Severely limited,Severely limited,8.85,%
+KOR,Republic of Korea,Disability Types,Q6. Severely limited,Severely limited,8.56,%
+NGA,Nigeria,Disability Types,Q6. Severely limited,Severely limited,9.95,%
+PAK,Pakistan,Disability Types,Q6. Severely limited,Severely limited,12.82,%
+RUS,Russian Federation,Disability Types,Q6. Severely limited,Severely limited,10.69,%
+TUN,Tunisia,Disability Types,Q6. Severely limited,Severely limited,16.42,%
+TUR,Türkiye,Disability Types,Q6. Severely limited,Severely limited,5.63,%
+USA,United States of America,Disability Types,Q6. Severely limited,Severely limited,3.98,%
+ZAF,South Africa,Disability Types,Q6. Severely limited,Severely limited,9.42,%
+AUS,Australia,Disability Types,Q6. Limited - but not severely,Limited - but not severely,27.2,%
+BGD,Bangladesh,Disability Types,Q6. Limited - but not severely,Limited - but not severely,37.11,%
+BRA,Brazil,Disability Types,Q6. Limited - but not severely,Limited - but not severely,16.44,%
+CHN,China,Disability Types,Q6. Limited - but not severely,Limited - but not severely,27.5,%
+COM,Comoros,Disability Types,Q6. Limited - but not severely,Limited - but not severely,26.6,%
+DEU,Germany,Disability Types,Q6. Limited - but not severely,Limited - but not severely,36.39,%
+EGY,Egypt,Disability Types,Q6. Limited - but not severely,Limited - but not severely,26.37,%
+FJI,Fiji,Disability Types,Q6. Limited - but not severely,Limited - but not severely,35.06,%
+GRC,Greece,Disability Types,Q6. Limited - but not severely,Limited - but not severely,14.76,%
+IDN,Indonesia,Disability Types,Q6. Limited - but not severely,Limited - but not severely,27.94,%
+IND,India,Disability Types,Q6. Limited - but not severely,Limited - but not severely,30.77,%
+JPN,Japan,Disability Types,Q6. Limited - but not severely,Limited - but not severely,18.6,%
+KGZ,Kyrgyzstan,Disability Types,Q6. Limited - but not severely,Limited - but not severely,25.22,%
+KOR,Republic of Korea,Disability Types,Q6. Limited - but not severely,Limited - but not severely,30.76,%
+NGA,Nigeria,Disability Types,Q6. Limited - but not severely,Limited - but not severely,28.64,%
+PAK,Pakistan,Disability Types,Q6. Limited - but not severely,Limited - but not severely,19.64,%
+RUS,Russian Federation,Disability Types,Q6. Limited - but not severely,Limited - but not severely,22.39,%
+TUN,Tunisia,Disability Types,Q6. Limited - but not severely,Limited - but not severely,23.98,%
+TUR,Türkiye,Disability Types,Q6. Limited - but not severely,Limited - but not severely,18.37,%
+USA,United States of America,Disability Types,Q6. Limited - but not severely,Limited - but not severely,31.27,%
+ZAF,South Africa,Disability Types,Q6. Limited - but not severely,Limited - but not severely,23.58,%
+AUS,Australia,Disability Types,Q6. Not limited at all,Not limited at all,64.09,%
+BGD,Bangladesh,Disability Types,Q6. Not limited at all,Not limited at all,47.64,%
+BRA,Brazil,Disability Types,Q6. Not limited at all,Not limited at all,73.67,%
+CHN,China,Disability Types,Q6. Not limited at all,Not limited at all,68.9,%
+COM,Comoros,Disability Types,Q6. Not limited at all,Not limited at all,63.71,%
+DEU,Germany,Disability Types,Q6. Not limited at all,Not limited at all,53.08,%
+EGY,Egypt,Disability Types,Q6. Not limited at all,Not limited at all,54.12,%
+FJI,Fiji,Disability Types,Q6. Not limited at all,Not limited at all,53.3,%
+GRC,Greece,Disability Types,Q6. Not limited at all,Not limited at all,81.21,%
+IDN,Indonesia,Disability Types,Q6. Not limited at all,Not limited at all,66.35,%
+IND,India,Disability Types,Q6. Not limited at all,Not limited at all,45.95,%
+JPN,Japan,Disability Types,Q6. Not limited at all,Not limited at all,78.46,%
+KGZ,Kyrgyzstan,Disability Types,Q6. Not limited at all,Not limited at all,65.94,%
+KOR,Republic of Korea,Disability Types,Q6. Not limited at all,Not limited at all,60.68,%
+NGA,Nigeria,Disability Types,Q6. Not limited at all,Not limited at all,61.41,%
+PAK,Pakistan,Disability Types,Q6. Not limited at all,Not limited at all,67.54,%
+RUS,Russian Federation,Disability Types,Q6. Not limited at all,Not limited at all,66.92,%
+TUN,Tunisia,Disability Types,Q6. Not limited at all,Not limited at all,59.61,%
+TUR,Türkiye,Disability Types,Q6. Not limited at all,Not limited at all,75.99,%
+USA,United States of America,Disability Types,Q6. Not limited at all,Not limited at all,64.75,%
+ZAF,South Africa,Disability Types,Q6. Not limited at all,Not limited at all,67,%
+AUS,Australia,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,39.22,%
+BGD,Bangladesh,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,44.03,%
+BRA,Brazil,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,32.63,%
+CHN,China,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,20.81,%
+COM,Comoros,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,41.21,%
+DEU,Germany,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,30.05,%
+EGY,Egypt,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,64.64,%
+FJI,Fiji,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,26.5,%
+GRC,Greece,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,45.32,%
+IDN,Indonesia,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,11.75,%
+IND,India,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,38.85,%
+JPN,Japan,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,24.72,%
+KGZ,Kyrgyzstan,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,54.55,%
+KOR,Republic of Korea,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,28.87,%
+NGA,Nigeria,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,40.97,%
+PAK,Pakistan,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,32.93,%
+RUS,Russian Federation,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,56.33,%
+TUN,Tunisia,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,31.9,%
+TUR,Türkiye,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,47.9,%
+USA,United States of America,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,34.88,%
+ZAF,South Africa,AI Interaction Frequency,Q10. Interaction with AI: Never,Interaction with AI: Never,16.47,%
+AUS,Australia,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,24.41,%
+BGD,Bangladesh,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,22.84,%
+BRA,Brazil,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,19.4,%
+CHN,China,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,41.84,%
+COM,Comoros,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,15.81,%
+DEU,Germany,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,31.63,%
+EGY,Egypt,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,11.5,%
+FJI,Fiji,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,23.37,%
+GRC,Greece,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,31.95,%
+IDN,Indonesia,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,58.67,%
+IND,India,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,22.83,%
+JPN,Japan,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,23.44,%
+KGZ,Kyrgyzstan,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,13.71,%
+KOR,Republic of Korea,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,30.85,%
+NGA,Nigeria,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,20.04,%
+PAK,Pakistan,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,22.48,%
+RUS,Russian Federation,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,16.28,%
+TUN,Tunisia,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,15.66,%
+TUR,Türkiye,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,19.35,%
+USA,United States of America,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,32.56,%
+ZAF,South Africa,AI Interaction Frequency,Q10. Interaction with AI: Once a month or less,Interaction with AI: Once a month or less,24.1,%
+AUS,Australia,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,14.39,%
+BGD,Bangladesh,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,11.2,%
+BRA,Brazil,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,16,%
+CHN,China,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,24.4,%
+COM,Comoros,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,23.45,%
+DEU,Germany,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,15.86,%
+EGY,Egypt,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,10.69,%
+FJI,Fiji,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,21.01,%
+GRC,Greece,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,8.97,%
+IDN,Indonesia,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,19.28,%
+IND,India,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,19.65,%
+JPN,Japan,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,24.19,%
+KGZ,Kyrgyzstan,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,11.09,%
+KOR,Republic of Korea,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,19.64,%
+NGA,Nigeria,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,13.59,%
+PAK,Pakistan,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,24.52,%
+RUS,Russian Federation,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,11.39,%
+TUN,Tunisia,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,15.45,%
+TUR,Türkiye,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,11.39,%
+USA,United States of America,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,13.52,%
+ZAF,South Africa,AI Interaction Frequency,Q10. Interaction with AI: Once a week,Interaction with AI: Once a week,17.63,%
+AUS,Australia,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,21.99,%
+BGD,Bangladesh,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,21.92,%
+BRA,Brazil,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,31.97,%
+CHN,China,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,12.95,%
+COM,Comoros,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,19.53,%
+DEU,Germany,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,22.46,%
+EGY,Egypt,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,13.17,%
+FJI,Fiji,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,29.11,%
+GRC,Greece,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,13.75,%
+IDN,Indonesia,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,10.3,%
+IND,India,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,18.67,%
+JPN,Japan,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,27.65,%
+KGZ,Kyrgyzstan,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,20.65,%
+KOR,Republic of Korea,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,20.64,%
+NGA,Nigeria,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,25.39,%
+PAK,Pakistan,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,20.08,%
+RUS,Russian Federation,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,16,%
+TUN,Tunisia,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,36.98,%
+TUR,Türkiye,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,21.35,%
+USA,United States of America,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,19.04,%
+ZAF,South Africa,AI Interaction Frequency,Q10. Interaction with AI: More than once a week,Interaction with AI: More than once a week,41.8,%
+IND,India,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,8.83,%
+JPN,Japan,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,13.02,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,6.23,%
+KOR,Republic of Korea,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,6.76,%
+NGA,Nigeria,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,10.65,%
+PAK,Pakistan,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,12.83,%
+RUS,Russian Federation,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,21.67,%
+TUN,Tunisia,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,5.57,%
+TUR,Türkiye,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,27.38,%
+USA,United States of America,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,17.98,%
+ZAF,South Africa,AI Impact,Q21. Increase productivity: Very Unlikely,AI will increase productivity: Very Unlikely,14.63,%
+IND,India,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,7.74,%
+JPN,Japan,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,25.49,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,10.19,%
+KOR,Republic of Korea,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,9.4,%
+NGA,Nigeria,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,12.2,%
+PAK,Pakistan,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,14.3,%
+RUS,Russian Federation,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,15.35,%
+TUN,Tunisia,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,13.36,%
+TUR,Türkiye,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,14.85,%
+USA,United States of America,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,17.9,%
+ZAF,South Africa,AI Impact,Q21. Increase productivity: Unlikely,AI will increase productivity: Unlikely,10.9,%
+IND,India,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,19.12,%
+JPN,Japan,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,18.47,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,17.22,%
+KOR,Republic of Korea,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,23.1,%
+NGA,Nigeria,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,7.7,%
+PAK,Pakistan,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,11.93,%
+RUS,Russian Federation,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,13.98,%
+TUN,Tunisia,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,7.79,%
+TUR,Türkiye,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,20.9,%
+USA,United States of America,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,32.15,%
+ZAF,South Africa,AI Impact,Q21. Increase productivity: Neutral,AI will increase productivity: Neutral,18.82,%
+IND,India,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,36.51,%
+JPN,Japan,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,29.51,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,42.33,%
+KOR,Republic of Korea,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,45.52,%
+NGA,Nigeria,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,32.64,%
+PAK,Pakistan,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,44.3,%
+RUS,Russian Federation,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,29.67,%
+TUN,Tunisia,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,55.27,%
+TUR,Türkiye,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,17.46,%
+USA,United States of America,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,24.7,%
+ZAF,South Africa,AI Impact,Q21. Increase productivity: Likely,AI will increase productivity: Likely,25.51,%
+IND,India,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,27.8,%
+JPN,Japan,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,13.51,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,24.03,%
+KOR,Republic of Korea,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,15.22,%
+NGA,Nigeria,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,36.81,%
+PAK,Pakistan,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,16.65,%
+RUS,Russian Federation,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,19.32,%
+TUN,Tunisia,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,18.01,%
+TUR,Türkiye,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,19.42,%
+USA,United States of America,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,7.27,%
+ZAF,South Africa,AI Impact,Q21. Increase productivity: Very Likely,AI will increase productivity: Very Likely,30.15,%
+IND,India,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,20.31,%
+JPN,Japan,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,6.48,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,23.09,%
+KOR,Republic of Korea,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,14.84,%
+NGA,Nigeria,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,32.87,%
+PAK,Pakistan,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,13.43,%
+RUS,Russian Federation,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,14.26,%
+TUN,Tunisia,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,19.07,%
+TUR,Türkiye,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,20.41,%
+USA,United States of America,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,4.54,%
+ZAF,South Africa,AI Impact,Q21. Find new jobs: Very Likely,AI will help find new jobs: Very Likely,21.32,%
+IDN,Indonesia,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,35.03,%
+IND,India,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,37.8,%
+JPN,Japan,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,31.88,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,46.38,%
+KOR,Republic of Korea,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,39.3,%
+NGA,Nigeria,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,29.41,%
+PAK,Pakistan,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,39.06,%
+RUS,Russian Federation,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,26.08,%
+TUN,Tunisia,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,59.69,%
+TUR,Türkiye,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,17.66,%
+USA,United States of America,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,22.57,%
+ZAF,South Africa,AI Impact,Q21. Find new jobs: Likely,AI will help find new jobs: Likely,24.06,%
+IDN,Indonesia,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,39.85,%
+IND,India,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,23.25,%
+JPN,Japan,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,31.48,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,14.87,%
+KOR,Republic of Korea,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,27.99,%
+NGA,Nigeria,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,9.2,%
+PAK,Pakistan,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,10.28,%
+RUS,Russian Federation,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,14.54,%
+TUN,Tunisia,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,6.6,%
+TUR,Türkiye,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,20.74,%
+USA,United States of America,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,35.43,%
+ZAF,South Africa,AI Impact,Q21. Find new jobs: Neutral,AI will help find new jobs: Neutral,23,%
+IDN,Indonesia,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,6.7,%
+IND,India,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,7.93,%
+JPN,Japan,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,18.34,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,10.44,%
+KOR,Republic of Korea,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,9.23,%
+NGA,Nigeria,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,15.67,%
+PAK,Pakistan,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,19.32,%
+RUS,Russian Federation,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,22.88,%
+TUN,Tunisia,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,9.9,%
+TUR,Türkiye,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,16.43,%
+USA,United States of America,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,21.57,%
+ZAF,South Africa,AI Impact,Q21. Find new jobs: Unlikely,AI will help find new jobs: Unlikely,14.1,%
+IDN,Indonesia,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,2.84,%
+IND,India,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,10.71,%
+JPN,Japan,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,11.82,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,5.22,%
+KOR,Republic of Korea,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,8.65,%
+NGA,Nigeria,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,12.85,%
+PAK,Pakistan,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,17.9,%
+RUS,Russian Federation,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,22.24,%
+TUN,Tunisia,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,4.73,%
+TUR,Türkiye,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,24.76,%
+USA,United States of America,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,15.89,%
+ZAF,South Africa,AI Impact,Q21. Find new jobs: Very Unlikely,AI will help find new jobs: Very Unlikely,17.52,%
+IDN,Indonesia,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,9.12,%
+IND,India,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,18.62,%
+JPN,Japan,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,3.15,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,14.46,%
+KOR,Republic of Korea,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,14.79,%
+NGA,Nigeria,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,24.42,%
+PAK,Pakistan,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,9.23,%
+RUS,Russian Federation,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,9.39,%
+TUN,Tunisia,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,12,%
+TUR,Türkiye,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,11.12,%
+USA,United States of America,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,6.18,%
+ZAF,South Africa,AI Impact,Q21. Current job change/replaced: Very Likely,Current job significantly changed or replaced by AI: Very Likely,24.95,%
+IDN,Indonesia,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,26.15,%
+IND,India,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,32.26,%
+JPN,Japan,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,16.48,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,42.14,%
+KOR,Republic of Korea,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,30.24,%
+NGA,Nigeria,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,23.11,%
+PAK,Pakistan,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,34.9,%
+RUS,Russian Federation,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,15.62,%
+TUN,Tunisia,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,46.01,%
+TUR,Türkiye,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,10.14,%
+USA,United States of America,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,15.57,%
+ZAF,South Africa,AI Impact,Q21. Current job change/replaced: Likely,Current job significantly changed or replaced by AI: Likely,23.85,%
+IDN,Indonesia,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,39.16,%
+IND,India,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,24.1,%
+JPN,Japan,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,28.93,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,19.05,%
+KOR,Republic of Korea,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,30.26,%
+NGA,Nigeria,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,10.97,%
+PAK,Pakistan,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,15.31,%
+RUS,Russian Federation,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,12.25,%
+TUN,Tunisia,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,11.18,%
+TUR,Türkiye,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,19.18,%
+USA,United States of America,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,29.71,%
+ZAF,South Africa,AI Impact,Q21. Current job change/replaced: Neutral,Current job significantly changed or replaced by AI: Neutral,19.05,%
+IDN,Indonesia,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,18.61,%
+IND,India,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,9.27,%
+JPN,Japan,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,34.31,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,14.3,%
+KOR,Republic of Korea,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,10.92,%
+NGA,Nigeria,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,19.73,%
+PAK,Pakistan,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,23.67,%
+RUS,Russian Federation,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,24.92,%
+TUN,Tunisia,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,20.72,%
+TUR,Türkiye,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,15.95,%
+USA,United States of America,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,22.78,%
+ZAF,South Africa,AI Impact,Q21. Current job change/replaced: Unlikely,Current job significantly changed or replaced by AI: Unlikely,11.58,%
+IDN,Indonesia,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,6.95,%
+IND,India,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,15.74,%
+JPN,Japan,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,17.14,%
+KGZ,Kyrgyzstan,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,10.06,%
+KOR,Republic of Korea,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,13.8,%
+NGA,Nigeria,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,21.76,%
+PAK,Pakistan,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,16.9,%
+RUS,Russian Federation,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,37.82,%
+TUN,Tunisia,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,10.09,%
+TUR,Türkiye,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,43.62,%
+USA,United States of America,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,25.76,%
+ZAF,South Africa,AI Impact,Q21. Current job change/replaced: Very Unlikely,Current job significantly changed or replaced by AI: Very Unlikely,20.58,%
+IDN,Indonesia,Occupation Group,Q4. Employed (Full-Time),Full-time employee,9.34,%
+IND,India,Occupation Group,Q4. Employed (Full-Time),Full-time employee,21.96,%
+JPN,Japan,Occupation Group,Q4. Employed (Full-Time),Full-time employee,37.76,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Employed (Full-Time),Full-time employee,18.86,%
+KOR,Republic of Korea,Occupation Group,Q4. Employed (Full-Time),Full-time employee,41.45,%
+NGA,Nigeria,Occupation Group,Q4. Employed (Full-Time),Full-time employee,13.36,%
+PAK,Pakistan,Occupation Group,Q4. Employed (Full-Time),Full-time employee,15.65,%
+RUS,Russian Federation,Occupation Group,Q4. Employed (Full-Time),Full-time employee,45.65,%
+TUN,Tunisia,Occupation Group,Q4. Employed (Full-Time),Full-time employee,29.79,%
+TUR,Türkiye,Occupation Group,Q4. Employed (Full-Time),Full-time employee,33.7,%
+USA,United States of America,Occupation Group,Q4. Employed (Full-Time),Full-time employee,44.58,%
+ZAF,South Africa,Occupation Group,Q4. Employed (Full-Time),Full-time employee,15.78,%
+IDN,Indonesia,Occupation Group,Q4. Employed (Part-Time),Part-time employee,12.05,%
+IND,India,Occupation Group,Q4. Employed (Part-Time),Part-time employee,8.48,%
+JPN,Japan,Occupation Group,Q4. Employed (Part-Time),Part-time employee,6.78,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Employed (Part-Time),Part-time employee,7.63,%
+KOR,Republic of Korea,Occupation Group,Q4. Employed (Part-Time),Part-time employee,7.47,%
+NGA,Nigeria,Occupation Group,Q4. Employed (Part-Time),Part-time employee,6.15,%
+PAK,Pakistan,Occupation Group,Q4. Employed (Part-Time),Part-time employee,5.21,%
+RUS,Russian Federation,Occupation Group,Q4. Employed (Part-Time),Part-time employee,4.05,%
+TUN,Tunisia,Occupation Group,Q4. Employed (Part-Time),Part-time employee,7.73,%
+TUR,Türkiye,Occupation Group,Q4. Employed (Part-Time),Part-time employee,3.92,%
+USA,United States of America,Occupation Group,Q4. Employed (Part-Time),Part-time employee,8.98,%
+ZAF,South Africa,Occupation Group,Q4. Employed (Part-Time),Part-time employee,8.59,%
+IDN,Indonesia,Occupation Group,Q4. Self-employed,Self-employed,2.87,%
+IND,India,Occupation Group,Q4. Self-employed,Self-employed,2.39,%
+JPN,Japan,Occupation Group,Q4. Self-employed,Self-employed,17.3,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Self-employed,Self-employed,12.45,%
+KOR,Republic of Korea,Occupation Group,Q4. Self-employed,Self-employed,0.79,%
+NGA,Nigeria,Occupation Group,Q4. Self-employed,Self-employed,1.71,%
+PAK,Pakistan,Occupation Group,Q4. Self-employed,Self-employed,1.38,%
+RUS,Russian Federation,Occupation Group,Q4. Self-employed,Self-employed,27.79,%
+TUN,Tunisia,Occupation Group,Q4. Self-employed,Self-employed,7.59,%
+TUR,Türkiye,Occupation Group,Q4. Self-employed,Self-employed,15.44,%
+USA,United States of America,Occupation Group,Q4. Self-employed,Self-employed,21.9,%
+ZAF,South Africa,Occupation Group,Q4. Self-employed,Self-employed,8.27,%
+IDN,Indonesia,Occupation Group,Q4. Unemployed,Unemployed,30.84,%
+IND,India,Occupation Group,Q4. Unemployed,Unemployed,15.18,%
+JPN,Japan,Occupation Group,Q4. Unemployed,Unemployed,10.96,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Unemployed,Unemployed,17.51,%
+KOR,Republic of Korea,Occupation Group,Q4. Unemployed,Unemployed,11.34,%
+NGA,Nigeria,Occupation Group,Q4. Unemployed,Unemployed,46.27,%
+PAK,Pakistan,Occupation Group,Q4. Unemployed,Unemployed,22.04,%
+RUS,Russian Federation,Occupation Group,Q4. Unemployed,Unemployed,11.67,%
+TUN,Tunisia,Occupation Group,Q4. Unemployed,Unemployed,14.25,%
+TUR,Türkiye,Occupation Group,Q4. Unemployed,Unemployed,7,%
+USA,United States of America,Occupation Group,Q4. Unemployed,Unemployed,6.22,%
+ZAF,South Africa,Occupation Group,Q4. Unemployed,Unemployed,11.87,%
+IDN,Indonesia,Occupation Group,Q4. Retired,Retired,5,%
+IND,India,Occupation Group,Q4. Retired,Retired,12.05,%
+JPN,Japan,Occupation Group,Q4. Retired,Retired,10.79,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Retired,Retired,13.28,%
+KOR,Republic of Korea,Occupation Group,Q4. Retired,Retired,10.26,%
+NGA,Nigeria,Occupation Group,Q4. Retired,Retired,17.39,%
+PAK,Pakistan,Occupation Group,Q4. Retired,Retired,11.32,%
+RUS,Russian Federation,Occupation Group,Q4. Retired,Retired,1.86,%
+TUN,Tunisia,Occupation Group,Q4. Retired,Retired,10.06,%
+TUR,Türkiye,Occupation Group,Q4. Retired,Retired,10.19,%
+USA,United States of America,Occupation Group,Q4. Retired,Retired,8.57,%
+ZAF,South Africa,Occupation Group,Q4. Retired,Retired,16.88,%
+IDN,Indonesia,Occupation Group,Q4. Student,Student,8.88,%
+IND,India,Occupation Group,Q4. Student,Student,9.31,%
+JPN,Japan,Occupation Group,Q4. Student,Student,1.78,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Student,Student,10.41,%
+KOR,Republic of Korea,Occupation Group,Q4. Student,Student,15.79,%
+NGA,Nigeria,Occupation Group,Q4. Student,Student,12.1,%
+PAK,Pakistan,Occupation Group,Q4. Student,Student,2.99,%
+RUS,Russian Federation,Occupation Group,Q4. Student,Student,3.89,%
+TUN,Tunisia,Occupation Group,Q4. Student,Student,20.02,%
+TUR,Türkiye,Occupation Group,Q4. Student,Student,6.07,%
+USA,United States of America,Occupation Group,Q4. Student,Student,4.06,%
+ZAF,South Africa,Occupation Group,Q4. Student,Student,36.84,%
+IDN,Indonesia,Occupation Group,Q4. Unpaid Worker,Unpaid worker,31.02,%
+IND,India,Occupation Group,Q4. Unpaid Worker,Unpaid worker,30.61,%
+JPN,Japan,Occupation Group,Q4. Unpaid Worker,Unpaid worker,14.63,%
+KGZ,Kyrgyzstan,Occupation Group,Q4. Unpaid Worker,Unpaid worker,19.86,%
+KOR,Republic of Korea,Occupation Group,Q4. Unpaid Worker,Unpaid worker,12.9,%
+NGA,Nigeria,Occupation Group,Q4. Unpaid Worker,Unpaid worker,3.02,%
+PAK,Pakistan,Occupation Group,Q4. Unpaid Worker,Unpaid worker,41.41,%
+RUS,Russian Federation,Occupation Group,Q4. Unpaid Worker,Unpaid worker,5.08,%
+TUN,Tunisia,Occupation Group,Q4. Unpaid Worker,Unpaid worker,10.56,%
+TUR,Türkiye,Occupation Group,Q4. Unpaid Worker,Unpaid worker,23.68,%
+USA,United States of America,Occupation Group,Q4. Unpaid Worker,Unpaid worker,5.67,%
+ZAF,South Africa,Occupation Group,Q4. Unpaid Worker,Unpaid worker,1.76,%
+AUS,Australia,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,19.45,%
+BGD,Bangladesh,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,6.54,%
+BRA,Brazil,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,3.3,%
+CHN,China,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,42.23,%
+COM,Comoros,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,21.51,%
+DEU,Germany,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,41.4,%
+EGY,Egypt,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,10.19,%
+FJI,Fiji,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,3.51,%
+GRC,Greece,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,8.54,%
+IDN,Indonesia,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,3.95,%
+IND,India,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,12.37,%
+JPN,Japan,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,22.49,%
+KGZ,Kyrgyzstan,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,11.52,%
+KOR,Republic of Korea,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,19.16,%
+NGA,Nigeria,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,9.23,%
+PAK,Pakistan,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,10.94,%
+RUS,Russian Federation,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,16.66,%
+TUN,Tunisia,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,8.73,%
+TUR,Türkiye,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,7.73,%
+USA,United States of America,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,19.72,%
+ZAF,South Africa,Trust in People,Q17. Social trust: Most people can be trusted,Most people can be trusted,8.22,%
+AUS,Australia,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,80.55,%
+BGD,Bangladesh,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,93.46,%
+BRA,Brazil,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,96.7,%
+CHN,China,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,57.77,%
+COM,Comoros,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,78.49,%
+DEU,Germany,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,58.6,%
+EGY,Egypt,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,89.81,%
+FJI,Fiji,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,96.49,%
+GRC,Greece,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,91.46,%
+IDN,Indonesia,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,96.05,%
+IND,India,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,87.63,%
+JPN,Japan,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,77.51,%
+KGZ,Kyrgyzstan,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,88.48,%
+KOR,Republic of Korea,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,80.84,%
+NGA,Nigeria,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,90.77,%
+PAK,Pakistan,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,89.06,%
+RUS,Russian Federation,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,83.34,%
+TUN,Tunisia,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,91.27,%
+TUR,Türkiye,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,92.27,%
+USA,United States of America,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,80.28,%
+ZAF,South Africa,Trust in People,Q17. Scoial trust: Need to be very careful in dealing with people,Need to be very careful in dealing with people,91.78,%
+AUS,Australia,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,8.9,%
+BGD,Bangladesh,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,18.77,%
+BRA,Brazil,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,4.26,%
+CHN,China,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,34.62,%
+COM,Comoros,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,10.35,%
+DEU,Germany,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,11.2,%
+EGY,Egypt,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,38.27,%
+FJI,Fiji,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,24.99,%
+GRC,Greece,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,5.39,%
+IDN,Indonesia,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,15,%
+IND,India,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,20.92,%
+JPN,Japan,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,13.57,%
+KGZ,Kyrgyzstan,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,26.92,%
+KOR,Republic of Korea,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,5.19,%
+NGA,Nigeria,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,25.32,%
+PAK,Pakistan,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,13.98,%
+RUS,Russian Federation,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,20.14,%
+TUN,Tunisia,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,24.12,%
+TUR,Türkiye,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,15.33,%
+USA,United States of America,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,3.54,%
+ZAF,South Africa,Trust in AI Systems,Q18. Trust in AI Systems: Very confident,Trust in AI Systems: Very confident.,28.96,%
+AUS,Australia,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,27.69,%
+BGD,Bangladesh,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,54.75,%
+BRA,Brazil,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,18.8,%
+CHN,China,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,53.93,%
+COM,Comoros,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,46.54,%
+DEU,Germany,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,33.73,%
+EGY,Egypt,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,34.83,%
+FJI,Fiji,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,31.83,%
+GRC,Greece,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,23.05,%
+IDN,Indonesia,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,52.51,%
+IND,India,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,43.82,%
+JPN,Japan,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,56.75,%
+KGZ,Kyrgyzstan,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,56.73,%
+KOR,Republic of Korea,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,45.57,%
+NGA,Nigeria,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,23,%
+PAK,Pakistan,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,41.65,%
+RUS,Russian Federation,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,38.89,%
+TUN,Tunisia,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,45.24,%
+TUR,Türkiye,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,33.77,%
+USA,United States of America,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,25.58,%
+ZAF,South Africa,Trust in AI Systems,Q18. Trust in AI Systems: Somewhat confident,Trust in AI Systems: Somewhat confident,28.27,%
+AUS,Australia,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,32.01,%
+BGD,Bangladesh,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,15.19,%
+BRA,Brazil,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,41.23,%
+CHN,China,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,8.84,%
+COM,Comoros,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,28.74,%
+DEU,Germany,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,30.24,%
+EGY,Egypt,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,15.88,%
+FJI,Fiji,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,30.82,%
+GRC,Greece,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,39.95,%
+IDN,Indonesia,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,28.8,%
+IND,India,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,18.74,%
+JPN,Japan,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,21.31,%
+KGZ,Kyrgyzstan,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,9.84,%
+KOR,Republic of Korea,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,38.4,%
+NGA,Nigeria,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,27.82,%
+PAK,Pakistan,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,22.47,%
+RUS,Russian Federation,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,27.4,%
+TUN,Tunisia,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,15.18,%
+TUR,Türkiye,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,21.75,%
+USA,United States of America,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,40.01,%
+ZAF,South Africa,Trust in AI Systems,Q18. Trust in AI Systems: Not very confident,Trust in AI Systems: Not very confident,22.48,%
+AUS,Australia,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,31.4,%
+BGD,Bangladesh,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,11.29,%
+BRA,Brazil,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,35.7,%
+CHN,China,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,2.61,%
+COM,Comoros,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,14.37,%
+DEU,Germany,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,24.83,%
+EGY,Egypt,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,11.03,%
+FJI,Fiji,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,12.36,%
+GRC,Greece,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,31.61,%
+IDN,Indonesia,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,3.69,%
+IND,India,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,16.52,%
+JPN,Japan,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,8.37,%
+KGZ,Kyrgyzstan,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,6.5,%
+KOR,Republic of Korea,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,10.85,%
+NGA,Nigeria,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,23.87,%
+PAK,Pakistan,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,21.91,%
+RUS,Russian Federation,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,13.57,%
+TUN,Tunisia,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,15.47,%
+TUR,Türkiye,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,29.16,%
+USA,United States of America,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,30.86,%
+ZAF,South Africa,Trust in AI Systems,Q18. Trust in AI Systems: Not at all confident,Trust in AI Systems: Not at all confident,20.3,%
