@@ -68,6 +68,33 @@ glimpse(project_data)
     ## $ Value         <dbl> 0.00, 31.15, 39.45, 29.40, 8.49, 43.16, 35.36, 12.99, 5.…
     ## $ Unit          <chr> "%", "%", "%", "%", "%", "%", "%", "%", "%", "%", "%", "…
 
+``` r
+project_data <- project_data %>%
+  mutate(category = case_when(
+    Country == "Nigeria" ~ "Low",
+    Country == "Pakistan" ~ "Low",
+    Country == "Bangladesh" ~ "Medium",
+    Country == "Comoros" ~ "Medium",
+    Country == "India" ~ "Medium",
+    Country == "Kyrgyzstan" ~ "Medium",
+    Country == "Brazil" ~ "High",
+    Country == "China" ~ "High",
+    Country == "Egypt" ~ "High",
+    Country == "Fiji" ~ "High",
+    Country == "Indonesia" ~ "High",
+    Country == "South Africa" ~ "High",
+    Country == "Tunisia" ~ "High",
+    Country == "Australia" ~ "Very High",
+    Country == "Germany" ~ "Very High",
+    Country == "Greece" ~ "Very High",
+    Country == "Japan" ~ "Very High",
+    Country == "Republic of Korea" ~ "Very High",
+    Country == "Russian Federation" ~ "Very High",
+    Country == "Türkey" ~ "Very High",
+    Country == "United States of America" ~ "Very High"
+  ))
+```
+
 ## 3. Data analysis plan
 
 The variables we will be visualizing to explore the research questions
