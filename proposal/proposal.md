@@ -90,9 +90,23 @@ project_data <- project_data %>%
     Country == "Japan" ~ "Very High",
     Country == "Republic of Korea" ~ "Very High",
     Country == "Russian Federation" ~ "Very High",
-    Country == "Türkey" ~ "Very High",
+    Country == "Türkiye" ~ "Very High",
     Country == "United States of America" ~ "Very High"
   ))
+```
+
+``` r
+project_data <- project_data %>% select(-Question)
+project_data <- project_data %>% select(-Unit)
+```
+
+``` r
+project_data_wide <- project_data %>%
+  unite("Section_Label", Section, Description, sep = " - ") %>%
+  pivot_wider(
+    names_from = Section_Label,
+    values_from = Value
+  )
 ```
 
 ## 3. Data analysis plan
