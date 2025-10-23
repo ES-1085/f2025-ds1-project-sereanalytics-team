@@ -6,6 +6,7 @@ SerenAnalytics
 library(tidyverse)
 library(broom)
 library(skimr)
+library(janitor)
 ## Add any additional packages you are using here
 ```
 
@@ -106,6 +107,39 @@ project_data_wide <- project_data %>%
   pivot_wider(
     names_from = Section_Label,
     values_from = Value
+  )
+```
+
+``` r
+project_data_wide <- project_data_wide %>%
+  clean_names()
+
+project_data_clean <- project_data_wide %>%
+  rename(
+    iso = country_iso,
+    country = country,
+    category = category,
+    mean_age = mean_age_mean_age_of_survey_respondents,
+    age_15_17 = age_group_respondents_aged_15_17,
+    age_18_35 = age_group_respondents_aged_18_35,
+    age_36_59 = age_group_respondents_aged_36_59,
+    age_60_plus = age_group_respondents_aged_60,
+    female = gender_group_female_respondents,
+    male = gender_group_male_respondents,
+    other_gender = gender_group_other_respondents,
+    edu_primary = education_group_completed_primary_or_less,
+    edu_secondary = education_group_completed_secondary,
+    edu_university = education_group_completed_university_or_more,
+    occ_fulltime = occupation_group_full_time_employee,
+    occ_parttime = occupation_group_part_time_employee,
+    occ_self = occupation_group_self_employed,
+    occ_unemployed = occupation_group_unemployed,
+    occ_retired = occupation_group_retired,
+    occ_student = occupation_group_student,
+    occ_unpaid = occupation_group_unpaid_worker,
+    trust_people = trust_in_people_most_people_can_be_trusted,
+    trust_ai_confident = trust_in_ai_systems_trust_in_ai_systems_very_confident,
+    ai_productivity_likely = ai_impact_ai_will_increase_productivity_likely
   )
 ```
 
