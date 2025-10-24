@@ -164,6 +164,28 @@ We will not be needing data from other sources but we will most likely
 want to add a variable that separates the countries by their groups (as
 mentioned above)
 
+``` r
+# combined summary statistics
+summary_stats <- project_data_clean %>%
+  group_by(category) %>%
+  summarise(
+    avg_age = mean(mean_age, na.rm = TRUE),
+    avg_trust_people = mean(trust_people, na.rm = TRUE),
+    avg_trust_ai = mean(trust_ai_confident, na.rm = TRUE),
+    avg_ai_productivity = mean(ai_productivity_likely, na.rm = TRUE)
+  )
+
+summary_stats
+```
+
+    ## # A tibble: 4 × 5
+    ##   category  avg_age avg_trust_people avg_trust_ai avg_ai_productivity
+    ##   <chr>       <dbl>            <dbl>        <dbl>               <dbl>
+    ## 1 High         40.2             11.4         24.3                35.2
+    ## 2 Low          34.3             10.1         19.6                38.5
+    ## 3 Medium       36.9             13.0         19.2                39.3
+    ## 4 Very High    46.8             19.4         10.4                28.8
+
 Types of graphs that we want to use:  
 - Bar graph with “facet_wrap” based on countries or their human
 development dynamics.  
