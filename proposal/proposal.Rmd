@@ -127,6 +127,17 @@ The variables we will be visualizing to explore the research questions include:
 We will not be needing data from other sources but we will most likely want to add a variable that separates the countries by their groups (as mentioned above)  
 
 ```{r summary-statistics}
+# combined summary statistics
+summary_stats <- project_data_clean %>%
+  group_by(category) %>%
+  summarise(
+    avg_age = mean(mean_age, na.rm = TRUE),
+    avg_trust_people = mean(trust_people, na.rm = TRUE),
+    avg_trust_ai = mean(trust_ai_confident, na.rm = TRUE),
+    avg_ai_productivity = mean(ai_productivity_likely, na.rm = TRUE)
+  )
+
+summary_stats
 
 ```
 
