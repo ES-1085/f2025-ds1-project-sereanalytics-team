@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿Country ISO,Country,Section,Question,Description,Value,Unit
+=======
 Country ISO,Country,Section,Question,Description,Value,Unit
+>>>>>>> eaced438a04fb8c347968476a007b6ed0efca7bf
 AUS,Australia,Mean Age,Q1. Mean Age,Mean age of survey respondents,48.6645393371582,years
 BGD,Bangladesh,Mean Age,Q1. Mean Age,Mean age of survey respondents,35.4538955688477,years
 BRA,Brazil,Mean Age,Q1. Mean Age,Mean age of survey respondents,42.8580894470215,years
