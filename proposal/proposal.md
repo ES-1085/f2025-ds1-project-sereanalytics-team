@@ -194,6 +194,41 @@ development dynamics.
 - Geom density of familiarity with AI and occupation group  
 - Scatter plot of AI interaction frequency and trust in AI systems
 
+``` r
+#project_data_clean|>
+ # filter(country %in% c())
+#ggplot(mapping = aes(x=____, y=edu_primary))+
+ # geom_bar()+
+  #facet_wrap(~country) #unfinished
+```
+
+``` r
+ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = category)) +
+  geom_point(size = 4) +
+  geom_text(aes(label = category), vjust = -1) +
+  labs(
+    title = "Trust in People vs. Trust in AI Systems",
+    x = "Average Trust in People",
+    y = "Average Trust in AI Systems",
+    color = "Category")
+```
+
+![](proposal_files/figure-gfm/visualization_2-1.png)<!-- -->
+
+``` r
+#project_data_clean|>
+    #put all the ai_interavtive_frequencies into one group
+    #put all the age groups into one group
+#ggplot(project_data_clean, aes(x = age_group, y = ai_interaction_frequency, fill = age_group)) +
+ # geom_violin(trim = FALSE, alpha = 0.7) +
+  #geom_boxplot(width = 0.1, color = "black", alpha = 0.6) +
+  #labs(
+   # title = "AI Interaction Frequency by Age Group",
+    #x = "Age Group",
+    #y = "AI Interaction Frequency (per week)",
+    #fill = "Age Group")
+```
+
 Reflections:  
 - What questions do you have about your dataset and project?  
 The biggest question that we have about our dataset right now is
