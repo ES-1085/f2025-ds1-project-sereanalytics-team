@@ -216,18 +216,47 @@ ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = catego
 ![](proposal_files/figure-gfm/visualization_2-1.png)<!-- -->
 
 ``` r
-#project_data_clean|>
-    #put all the ai_interavtive_frequencies into one group
-    #put all the age groups into one group
-#ggplot(project_data_clean, aes(x = age_group, y = ai_interaction_frequency, fill = age_group)) +
- # geom_violin(trim = FALSE, alpha = 0.7) +
-  #geom_boxplot(width = 0.1, color = "black", alpha = 0.6) +
-  #labs(
-   # title = "AI Interaction Frequency by Age Group",
-    #x = "Age Group",
-    #y = "AI Interaction Frequency (per week)",
-    #fill = "Age Group")
+ project_data_clean|>
+  mutate(age_group = age_15_17 + age_18_35 + age_36_59 + age_60_plus)|>
+  mutate(ai_interaction_frequency = ai_interaction_frequency_interaction_with_ai_never + ai_interaction_frequency_interaction_with_ai_once_a_week + ai_interaction_frequency_interaction_with_ai_more_than_once_a_week + ai_interaction_frequency_interaction_with_ai_once_a_month_or_less)|>
+ ggplot(mapping = aes(x = ai_interaction_frequency, y = age_group , fill = ai_interaction_frequency)) +
+   geom_violin(trim = FALSE, alpha = 0.7) +
+ labs(
+   title = "AI Interaction Frequency by Age Group",
+    x = "AI Interaction Frequency (per week)",
+    y = "Age Group",
+    fill = "Ai Interaction Frequency")
 ```
+
+    ## Warning: The following aesthetics were dropped during statistical transformation: fill.
+    ## ℹ This can happen when ggplot fails to infer the correct grouping structure in
+    ##   the data.
+    ## ℹ Did you forget to specify a `group` aesthetic or to convert a numerical
+    ##   variable into a factor?
+
+![](proposal_files/figure-gfm/visualization_3-1.png)<!-- -->
+
+``` r
+project_data_clean|>
+  mutate(familiarity_with_ai = familiarity_with_ai_ai_familiarity_dont_know + familiarity_with_ai_ai_familiarity_nothing + familiarity_with_ai_ai_familiarity_a_little + familiarity_with_ai_ai_familiarity_some + familiarity_with_ai_ai_familiarity_a_lot)|>
+  mutate(occupation_group = occ_unpaid + occ_student + occ_retired + occ_unemployed + occ_self + occ_parttime + occ_fulltime)|>
+ggplot(mapping = aes(x = familiarity_with_ai, fill = occupation_group)) +
+  geom_density(alpha = 0.6) +
+  labs(
+    title = "Distribution of AI Familiarity by Occupation Group",
+    x = "Familiarity with AI (e.g., 1–10 scale)",
+    y = "Density",
+    fill = "Occupation Group"
+  )
+```
+
+    ## Warning: The following aesthetics were dropped during statistical transformation: fill.
+    ## ℹ This can happen when ggplot fails to infer the correct grouping structure in
+    ##   the data.
+    ## ℹ Did you forget to specify a `group` aesthetic or to convert a numerical
+    ##   variable into a factor?
+
+![](proposal_files/figure-gfm/visualization_4-1.png)<!-- -->
 
 ``` r
 plot_data <- project_data_clean %>%
