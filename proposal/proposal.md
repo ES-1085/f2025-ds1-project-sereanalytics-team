@@ -229,6 +229,37 @@ ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = catego
     #fill = "Age Group")
 ```
 
+``` r
+plot_data <- project_data_clean %>%
+  arrange(desc(trust_ai_confident)) %>%
+  mutate(iso = factor(iso, levels = unique(iso)))
+
+plot_for_critique <- ggplot(plot_data, aes(x = iso, y = trust_ai_confident)) +
+  geom_col(fill = "#2E86AB", width = 0.7) +
+  geom_text(aes(label = round(trust_ai_confident, 1)),
+            vjust = -0.3, size = 3.5, color = "black") +
+  labs(
+    title = "Average Trust in AI Systems by Country",
+    subtitle = "Confidence scores represent average trust ratings",
+    x = NULL,
+    y = "Average Trust in AI Systems"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.title = element_text(face = "bold", size = 14, hjust = 0.5),
+    plot.subtitle = element_text(size = 11, hjust = 0.5, color = "grey30"),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+    axis.text.y = element_text(size = 10),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank()
+  ) +
+  ylim(0, max(plot_data$trust_ai_confident) * 1.1)
+
+ggsave("plot_for_critique.png")
+```
+
+    ## Saving 7 x 5 in image
+
 Reflections:  
 - What questions do you have about your dataset and project?  
 The biggest question that we have about our dataset right now is
