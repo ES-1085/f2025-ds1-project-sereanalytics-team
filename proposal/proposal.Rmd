@@ -10,6 +10,8 @@ library(broom)
 library(skimr)
 library(janitor)
 ## Add any additional packages you are using here
+library(ggplot2)
+library(dplyr)
 ```
 
 ## 1. Introduction
@@ -221,6 +223,109 @@ plot_for_critique <- ggplot(plot_data, aes(x = iso, y = trust_ai_confident)) +
   ylim(0, max(plot_data$trust_ai_confident) * 1.1)
 
 ggsave("plot_for_critique.png")
+```
+
+```{r visualization_6}
+cb_palette <- c(
+  "Primary or Less"    = "#0072B2",  # Blue
+  "Secondary"          = "#E69F00",  # Orange
+  "University or More" = "#009E73"   # Green
+)
+
+edu_long <- project_data_clean %>%
+  select(country, category, edu_primary, edu_secondary, edu_university) %>%
+  pivot_longer(
+    cols = c(edu_primary, edu_secondary, edu_university),
+    names_to = "education_level",
+    values_to = "percent"
+  ) %>%
+  mutate(
+    education_level = factor(
+      education_level,
+      levels = c("edu_primary", "edu_secondary", "edu_university"),
+      labels = c("Primary or Less", "Secondary", "University or More")
+    ),
+    category = factor(
+      category,
+      levels = c("Low", "Medium", "High", "Very High")
+    )
+  )
+
+ggplot(edu_long, aes(x = education_level, y = percent, fill = education_level)) +
+  geom_col(position = position_dodge(width = 0.7), width = 0.65) +
+  facet_wrap(~ category, ncol = 2, scales = "free_y") +
+  scale_fill_manual(values = cb_palette) +
+  labs(
+    title = "Education Levels by Human Development Category",
+    subtitle = "Countries grouped by UN Human Development tiers",
+    x = "Education Level",
+    y = "Percentage of Respondents"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(size = 12, color = "gray30"),
+    axis.text.x = element_text(angle = 25, hjust = 1),
+    legend.position = "none",          # ⬅ REMOVE LEGEND
+    panel.spacing = unit(1, "lines"),
+    strip.text = element_text(face = "bold", size = 13),
+    strip.background = element_rect(fill = "#f2f2f2", color = NA)
+  )
+```
+
+```{r visualization_7}
+project_data_clean$category <- factor(
+  project_data_clean$category,
+  levels = c("Low", "Medium", "High", "Very High")
+)
+
+heatmap_data <- project_data_clean %>%
+  select(country, category, ai_productivity_likely) %>%
+  group_by(category) %>%
+  mutate(country = fct_reorder(country, ai_productivity_likely)) %>%
+  ungroup()
+
+max_val <- max(heatmap_data$ai_productivity_likely, na.rm = TRUE)
+
+ggplot(
+  heatmap_data,
+  aes(
+    x = category,
+    y = country,
+    fill = ai_productivity_likely
+  )
+) +
+  geom_tile(color = "white", linewidth = 0.6) +
+
+  facet_wrap(~ category, scales = "free_y", ncol = 2) +
+
+  scale_fill_gradientn(
+    colors = c("#dbe9f6", "#6baed6", "#2171b5"),
+    values = scales::rescale(c(0, max_val * 0.5, max_val)),
+    name = paste0("AI Productivity\nLikelihood\n(max = ", max_val, ")")
+  ) +
+
+  labs(
+    title = "Perceived Likelihood that AI Will Increase Productivity",
+    subtitle = "Countries grouped by Human Development Category",
+    x = NULL,
+    y = NULL
+  ) +
+
+  theme_minimal(base_size = 12) +
+  theme(
+    strip.text = element_text(face = "bold", size = 13),
+    panel.spacing = unit(1.2, "lines"),
+
+    axis.text.x = element_blank(),
+    axis.ticks.x = element_blank(),
+
+    axis.text.y = element_text(size = 10, face = "bold"),
+    legend.position = "right",
+
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
+    plot.subtitle = element_text(size = 12, color = "grey40", hjust = 0.5)
+  )
 ```
 
 Reflections:  
