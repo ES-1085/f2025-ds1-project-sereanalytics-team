@@ -12,6 +12,7 @@ library(janitor)
 ## Add any additional packages you are using here
 library(ggplot2)
 library(dplyr)
+library(ggthemes)
 ```
 
 ## 1. Introduction
@@ -168,7 +169,8 @@ ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = catego
     y = "Average Trust in AI Systems",
     color = "Category") +
   scale_x_continuous(limits = c(10, 22.5)) +
-  scale_y_continuous(limits = c(10, 27.5))
+  scale_y_continuous(limits = c(10, 27.5)) + 
+  theme_excel_new()
   
 ```
 
@@ -330,6 +332,10 @@ ggplot(
     plot.subtitle = element_text(size = 12, color = "grey40", hjust = 0.5)
   )
 ```
+
+```{r-visualization-8-development-vs-ai-trust}
+
+
 
 Reflections:  
 - What questions do you have about your dataset and project?  
