@@ -166,7 +166,10 @@ ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = catego
     title = "Trust in People vs. Trust in AI Systems",
     x = "Average Trust in People",
     y = "Average Trust in AI Systems",
-    color = "Category")
+    color = "Category") +
+  scale_x_continuous(limits = c(10, 22.5)) +
+  scale_y_continuous(limits = c(10, 27.5))
+  
 ```
 
 ```{r visualization_3}
