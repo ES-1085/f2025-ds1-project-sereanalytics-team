@@ -162,15 +162,21 @@ Types of graphs that we want to use:
 ```{r visualization_2}
 ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = category)) +
   geom_point(size = 4) +
-  geom_text(aes(label = category), vjust = -1) +
+  geom_text(aes(label = category), vjust = -1, color = "black") + 
   labs(
     title = "Trust in People vs. Trust in AI Systems",
     x = "Average Trust in People",
     y = "Average Trust in AI Systems",
-    color = "Category") +
+    color = "Category"
+  ) +
+  theme_excel_new() +
   scale_x_continuous(limits = c(10, 22.5)) +
-  scale_y_continuous(limits = c(10, 27.5)) + 
-  theme_excel_new()
+  scale_y_continuous(limits = c(10, 27.5)) +
+  theme(
+    axis.title.x = element_text(color = "black", size = 12), 
+    axis.title.y = element_text(color = "black", size = 12),   
+    plot.title = element_text(color = "black", size = 14, face = "bold")
+  )
   
 ```
 
