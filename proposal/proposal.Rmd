@@ -334,7 +334,7 @@ ggplot(
 ```
 
 ```{r-visualization-8-development-vs-ai-trust}
-
+ggplot()
 
 
 Reflections:  
