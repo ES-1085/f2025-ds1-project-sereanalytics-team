@@ -160,6 +160,14 @@ Types of graphs that we want to use:
 ```
 
 ```{r visualization_2}
+colors <- c(
+  "Very High" = "#08519c",   
+  "High" = "#2171b5", 
+  "Medium" = "#6baed6",
+  "Low" = "#dbe9f6",
+  "No Data" = "gray"
+)
+
 ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = category)) +
   geom_point(size = 4) +
   geom_text(aes(label = category), vjust = -1, color = "black") + 
@@ -169,9 +177,10 @@ ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = catego
     y = "Average Trust in AI Systems",
     color = "Category"
   ) +
-  theme_excel_new() +
+  scale_color_manual(values = colors) +   # set custom colors
   scale_x_continuous(limits = c(10, 22.5)) +
   scale_y_continuous(limits = c(10, 27.5)) +
+  theme_excel_new() +
   theme(
     axis.title.x = element_text(color = "black", size = 12), 
     axis.title.y = element_text(color = "black", size = 12),   
@@ -338,6 +347,42 @@ ggplot(
     plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
     plot.subtitle = element_text(size = 12, color = "grey40", hjust = 0.5)
   )
+```
+
+```{r map}
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+world_data <- world %>%
+  left_join(project_data_clean, by = c("name" = "country"))
+
+colors <- c(
+  "Very High" = "#08519c",   
+  "High" = "#2171b5", 
+  "Medium" = "#6baed6",
+  "Low" = "#dbe9f6",
+  "No Data" = "gray"  
+)
+
+ggplot(world_data) +
+  geom_sf(aes(fill = ifelse(is.na(category), "No Data", category)), color = "white", size = 0.2) +
+  scale_fill_manual(values = colors, name = "Development Level") +
+  labs(
+    title = "World Map by Development Category",
+    subtitle = "Gray countries indicate missing data"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(face = "bold", size = 14, hjust = 0.5),
+    plot.subtitle = element_text(size = 11, hjust = 0.5, color = "grey30"),
+    legend.position = "bottom"
+  )
+
 ```
 
 ```{r-visualization-8-development-vs-ai-trust}
