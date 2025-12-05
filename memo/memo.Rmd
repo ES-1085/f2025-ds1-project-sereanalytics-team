@@ -1,6 +1,6 @@
 ---
 title: "Project memo"
-author: "Team name"
+author: "SereAnalytics"
 output: github_document
 ---
 
@@ -9,17 +9,98 @@ This document should contain a detailed account of the data clean up for your da
 ```{r load-packages, message = FALSE}
 library(tidyverse)
 library(broom)
+library(skimr)
+library(janitor)
+library(ggplot2)
+library(dplyr)
+library(ggthemes)
 ```
 
 ## Data Clean Up Steps for Overall Data
 
-### Step 1: _________
+### Step 1: The first step is to load our data set and store it in a dataframe called project_data
 
-```{r}
-
+```{r load-data}
+project_data <- read_csv("Data.csv")
+glimpse(project_data)
 ```
 
-### Step 2: ________
+### Step 2: The second step is to add a categories column depending on the developmental score that the United Nations has assigned to each country
+
+```{r add-categories}
+project_data <- project_data %>%
+  mutate(category = case_when(
+    Country == "Nigeria" ~ "Low",
+    Country == "Pakistan" ~ "Low",
+    Country == "Bangladesh" ~ "Medium",
+    Country == "Comoros" ~ "Medium",
+    Country == "India" ~ "Medium",
+    Country == "Kyrgyzstan" ~ "Medium",
+    Country == "Brazil" ~ "High",
+    Country == "China" ~ "High",
+    Country == "Egypt" ~ "High",
+    Country == "Fiji" ~ "High",
+    Country == "Indonesia" ~ "High",
+    Country == "South Africa" ~ "High",
+    Country == "Tunisia" ~ "High",
+    Country == "Australia" ~ "Very High",
+    Country == "Germany" ~ "Very High",
+    Country == "Greece" ~ "Very High",
+    Country == "Japan" ~ "Very High",
+    Country == "Republic of Korea" ~ "Very High",
+    Country == "Russian Federation" ~ "Very High",
+    Country == "Türkiye" ~ "Very High",
+    Country == "United States of America" ~ "Very High"
+  ))
+```
+
+## Step 3: The third step is to modify our data set from a long data set to a wide dataset. This makes it easier for use in later data analysis steps and overall just makes the data easier to work with. This is stored in a new dataframe called project_data_wide
+
+```{r long-to-wide}
+project_data_wide <- project_data %>%
+  unite("Section_Label", Section, Description, sep = " - ") %>%
+  pivot_wider(
+    names_from = Section_Label,
+    values_from = Value
+  )
+```
+
+
+## Step 4: The fourth step is to clean the names of our variables. Because our data comes from a survey, the variables are names with really long descriptions of what the survey questions were asking. This is once again to make the data handling easier. We store this in a new dataframe called project_data_clean
+
+```{r clean-names}
+project_data_wide <- project_data_wide %>%
+  clean_names()
+
+project_data_clean <- project_data_wide %>%
+  rename(
+    iso = country_iso,
+    country = country,
+    category = category,
+    mean_age = mean_age_mean_age_of_survey_respondents,
+    age_15_17 = age_group_respondents_aged_15_17,
+    age_18_35 = age_group_respondents_aged_18_35,
+    age_36_59 = age_group_respondents_aged_36_59,
+    age_60_plus = age_group_respondents_aged_60,
+    female = gender_group_female_respondents,
+    male = gender_group_male_respondents,
+    other_gender = gender_group_other_respondents,
+    edu_primary = education_group_completed_primary_or_less,
+    edu_secondary = education_group_completed_secondary,
+    edu_university = education_group_completed_university_or_more,
+    occ_fulltime = occupation_group_full_time_employee,
+    occ_parttime = occupation_group_part_time_employee,
+    occ_self = occupation_group_self_employed,
+    occ_unemployed = occupation_group_unemployed,
+    occ_retired = occupation_group_retired,
+    occ_student = occupation_group_student,
+    occ_unpaid = occupation_group_unpaid_worker,
+    trust_people = trust_in_people_most_people_can_be_trusted,
+    trust_ai_confident = trust_in_ai_systems_trust_in_ai_systems_very_confident,
+    ai_productivity_likely = ai_impact_ai_will_increase_productivity_likely
+  )
+
+```
 
 ## Plots
 
