@@ -342,7 +342,7 @@ ggplot(
 
 ```{r-visualization-8-development-vs-ai-trust}
 ggplot()
-
+```
 
 Reflections:  
 - What questions do you have about your dataset and project?  

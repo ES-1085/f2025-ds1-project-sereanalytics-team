@@ -141,16 +141,118 @@ These data cleaning sections are optional and depend on if you have some data cl
 
 #### Final Plot 1
 
-```{r}
-
+```{r final_visualization_2, fig.alt= "Scatter plot of the average trust of people vs average trust of AI by development group by the United Nations. Countries with very high development have much more trust in people and much less trust in AI compared to all other development groups."}
+ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = category)) +
+  geom_point(size = 4) +
+  geom_text(aes(label = category), vjust = -1, color = "black") + 
+  labs(
+    title = "Trust in People vs. Trust in AI Systems",
+    x = "Average Trust in People",
+    y = "Average Trust in AI Systems",
+    color = "Category"
+  ) +
+  theme_excel_new() +
+  scale_x_continuous(limits = c(10, 22.5)) +
+  scale_y_continuous(limits = c(10, 27.5)) +
+  theme(
+    axis.title.x = element_text(color = "black", size = 12), 
+    axis.title.y = element_text(color = "black", size = 12),   
+    plot.title = element_text(color = "black", size = 14, face = "bold")
+  )
+  
 ```
 
 
 ### Plot 2: _________
 
+```{r final_plot_2, fig.alt= "Horizontal bar chart that shows the trust in AI score for each country in the data set. Egypt has the highest score at 38.3 out of 40 while the United States is the lowest at just 3.5."}
+plot_data <- project_data_clean %>%
+  arrange(trust_ai_confident) %>%  
+  mutate(country = factor(country, levels = country))
+
+plot_for_critique <- ggplot(plot_data, aes(x = country, y = trust_ai_confident)) +
+  geom_col(fill = "#2E86AB", width = 0.7) +
+  geom_text(aes(label = round(trust_ai_confident, 1)),
+            hjust = -0.1, size = 3.5, color = "black") + 
+  labs(
+    title = "Average Trust in AI Systems by Country",
+    subtitle = "Confidence scores represent average trust ratings",
+    x = NULL,
+    y = "Average Trust in AI Systems"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.title = element_text(face = "bold", size = 14, hjust = 0.5),
+    plot.subtitle = element_text(size = 11, hjust = 0.5, color = "grey30"),
+    axis.text.x = element_text(size = 10),
+    axis.text.y = element_text(size = 10),
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank()
+  ) +
+  scale_y_continuous(limits = c(0, max(plot_data$trust_ai_confident) * 1.1)) +
+  coord_flip()
+```
+
 ### Plot 3: ___________
 
-Add more plot sections as needed. Each project should have at least 3 plots, but talk to me if you have fewer than 3.
+```{r final_plot_3, fig.alt= "Heat map graph showing how optimistic countries in different development groups are about how AI will affect productivity. Countries in the medium development group seem to, on average, have the most faith in AI increasing productivity."}
+project_data_clean$category <- factor(
+  project_data_clean$category,
+  levels = c("Low", "Medium", "High", "Very High")
+)
+
+heatmap_data <- project_data_clean %>%
+  select(country, category, ai_productivity_likely) %>%
+  group_by(category) %>%
+  mutate(country = fct_reorder(country, ai_productivity_likely)) %>%
+  ungroup()
+
+max_val <- max(heatmap_data$ai_productivity_likely, na.rm = TRUE)
+
+ggplot(
+  heatmap_data,
+  aes(
+    x = category,
+    y = country,
+    fill = ai_productivity_likely
+  )
+) +
+  geom_tile(color = "white", linewidth = 0.6) +
+
+  facet_wrap(~ category, scales = "free_y", ncol = 2) +
+
+  scale_fill_gradientn(
+    colors = c("#dbe9f6", "#6baed6", "#2171b5"),
+    values = scales::rescale(c(0, max_val * 0.5, max_val)),
+    name = paste0("AI Productivity\nLikelihood\n(max = ", max_val, ")")
+  ) +
+
+  labs(
+    title = "Perceived Likelihood that AI Will Increase Productivity",
+    subtitle = "Countries grouped by Human Development Category",
+    x = NULL,
+    y = NULL
+  ) +
+
+  theme_minimal(base_size = 12) +
+  theme(
+    strip.text = element_text(face = "bold", size = 13),
+    panel.spacing = unit(1.2, "lines"),
+
+    axis.text.x = element_blank(),
+    axis.ticks.x = element_blank(),
+
+    axis.text.y = element_text(size = 10, face = "bold"),
+    legend.position = "right",
+
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
+    plot.subtitle = element_text(size = 12, color = "grey40", hjust = 0.5)
+  )
+```
 
 ### Plot 4: ___________ 
+
+```{r final_plot_4, fig.alt= "World map that highlights which countries are represented in our data set. The countries in the darkest blue are in the very high development group while the lightest blue countires are in the low development group. This map shows how we have data for a country from every populated continent but still do not have data for many countries."}
+
+```
 
