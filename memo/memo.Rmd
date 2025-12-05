@@ -4,8 +4,6 @@ author: "SereAnalytics"
 output: github_document
 ---
 
-This document should contain a detailed account of the data clean up for your data and the design choices you are making for your plots. For instance you will want to document choices you've made that were intentional for your graphic, e.g. color you've chosen for the plot. Think of this document as a code script someone can follow to reproduce the data cleaning steps and graphics in your handout.
-
 ```{r load-packages, message = FALSE}
 library(tidyverse)
 library(broom)
@@ -127,19 +125,7 @@ ggsave("example-starwars-wide.png", width = 6, height = 4)
 ```
 
 
-
-### Plot 1: _________
-
-#### Data cleanup steps specific to plot 1
-
-These data cleaning sections are optional and depend on if you have some data cleaning steps specific to a particular plot
-
-```{r}
-
-```
-
-
-#### Final Plot 1
+#### Plot 1: Trust in People vs. Trust in AI Systems
 
 ```{r final_visualization_2, fig.alt= "Scatter plot of the average trust of people vs average trust of AI by development group by the United Nations. Countries with very high development have much more trust in people and much less trust in AI compared to all other development groups."}
 ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = category)) +
@@ -163,7 +149,7 @@ ggplot(summary_stats, aes(x = avg_trust_people, y = avg_trust_ai, color = catego
 ```
 
 
-### Plot 2: _________
+### Plot 2: Average Trust in AI Systems by Country
 
 ```{r final_plot_2, fig.alt= "Horizontal bar chart that shows the trust in AI score for each country in the data set. Egypt has the highest score at 38.3 out of 40 while the United States is the lowest at just 3.5."}
 plot_data <- project_data_clean %>%
@@ -193,7 +179,7 @@ plot_for_critique <- ggplot(plot_data, aes(x = country, y = trust_ai_confident))
   coord_flip()
 ```
 
-### Plot 3: ___________
+### Plot 3: Perceived Likelihood that AI Will Increase Productivity
 
 ```{r final_plot_3, fig.alt= "Heat map graph showing how optimistic countries in different development groups are about how AI will affect productivity. Countries in the medium development group seem to, on average, have the most faith in AI increasing productivity."}
 project_data_clean$category <- factor(
@@ -250,9 +236,36 @@ ggplot(
   )
 ```
 
-### Plot 4: ___________ 
+### Plot 4: World Map by Development Category
 
 ```{r final_plot_4, fig.alt= "World map that highlights which countries are represented in our data set. The countries in the darkest blue are in the very high development group while the lightest blue countires are in the low development group. This map shows how we have data for a country from every populated continent but still do not have data for many countries."}
+
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+world_data <- world %>%
+  left_join(project_data_clean, by = c("name" = "country"))
+
+colors <- c(
+  "Very High" = "#08519c",   
+  "High" = "#2171b5", 
+  "Medium" = "#6baed6",
+  "Low" = "#dbe9f6",
+  "No Data" = "gray"  
+)
+
+ggplot(world_data) +
+  geom_sf(aes(fill = ifelse(is.na(category), "No Data", category)), color = "white", size = 0.2) +
+  scale_fill_manual(values = colors, name = "Development Level") +
+  labs(
+    title = "World Map by Development Category",
+    subtitle = "Gray countries indicate missing data"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(face = "bold", size = 14, hjust = 0.5),
+    plot.subtitle = element_text(size = 11, hjust = 0.5, color = "grey30"),
+    legend.position = "bottom"
+  )
 
 ```
 
